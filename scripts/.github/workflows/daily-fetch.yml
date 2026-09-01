@@ -1,0 +1,37 @@
+name: Daily Infopark data fetch
+
+on:
+  schedule:
+    # Runs at 03:00 UTC = 8:30 AM IST, every day
+    - cron: "0 3 * * *"
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scrapers
+        run: npm run scrape:all
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "kochi-startup-map-bot"
+          git config user.email "actions@github.com"
+          git add data/companies.json data/jobs.json data/adzuna-jobs.json
+          git diff --staged --quiet || git commit -m "chore: auto-fetch Infopark data $(date -u +%Y-%m-%d)"
+          git push
