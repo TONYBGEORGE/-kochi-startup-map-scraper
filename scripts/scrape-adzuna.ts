@@ -63,3 +63,33 @@ async function main() {
     const results = data.results ?? [];
 
     for (const r of results) {
+            allJobs.push({
+                      id: r.id,
+                      title: r.title,
+                      company: r.company?.display_name ?? null,
+                      location: r.location?.display_name ?? null,
+                      description: r.description ?? null,
+                      redirect_url: r.redirect_url ?? null,
+                      created: r.created ?? null,
+                      salary_min: r.salary_min ?? null,
+                      salary_max: r.salary_max ?? null,
+                      salary_is_predicted: r["salary_is_predicted"] ?? null,
+                      category: r.category?.label ?? null,
+            });
+    }
+        console.log(`Page ${page}: ${results.length} jobs (total: ${allJobs.length}, available: ${totalAvailable})`);
+        if (results.length < RESULTS_PER_PAGE) break;
+        await new Promise((r) => setTimeout(r, 500));
+  }
+
+    await writeFile(
+          "data/adzuna-jobs.json",
+          JSON.stringify({ scrapedAt: new Date().toISOString(), count: allJobs.length, totalAvailable, jobs: allJobs }, null, 2)
+        );
+    console.log(`Wrote ${allJobs.length} jobs to data/adzuna-jobs.json`);
+}
+
+main().catch((err) => {
+    console.error(err);
+    process.exit(1);
+});
