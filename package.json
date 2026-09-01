@@ -1,0 +1,20 @@
+{
+  "name": "kochi-startup-map-scraper",
+  "version": "1.0.0",
+  "description": "Daily auto-fetch of Infopark Kochi companies + job listings for Kochi Startup Map",
+  "type": "module",
+  "scripts": {
+    "scrape:companies": "tsx scripts/scrape-companies.ts",
+    "scrape:jobs": "tsx scripts/scrape-jobs.ts",
+    "scrape:adzuna": "tsx scripts/scrape-adzuna.ts",
+    "scrape:all": "npm run scrape:companies && npm run scrape:jobs && npm run scrape:adzuna"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  }
+}
