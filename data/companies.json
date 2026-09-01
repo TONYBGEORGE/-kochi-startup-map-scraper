@@ -1,0 +1,3943 @@
+{
+  "scrapedAt": "2026-09-01T20:25:36.360Z",
+  "count": 391,
+  "companies": [
+    {
+      "name": "2Base Technologies Pvt Ltd",
+      "website": "www.2basetechnologies.com",
+      "phone": null,
+      "domains": [
+        "AI",
+        "Artificial Intelligence (AI) / Machine Learning (ML)",
+        "Software Development",
+        "Mobile Application Development",
+        "Internet of Things (IoT)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/4892Base-Logo2024.png",
+      "jobLink": "https://infopark.in/jobs/312",
+      "profileLink": "https://infopark.in/companies-profile/2base-technologies-pvt-ltd"
+    },
+    {
+      "name": "2Hats Logic Solutions Pvt. Ltd.",
+      "website": "www.2hatslogic.com",
+      "phone": "0484 487 8903",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/3532hats-logo.png",
+      "jobLink": "https://infopark.in/jobs/182",
+      "profileLink": "https://infopark.in/companies-profile/2hats-logic-solutions-pvt-ltd"
+    },
+    {
+      "name": "42Square Technologies",
+      "website": "www.42square.ai",
+      "phone": "8078186103",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/4940001.jpg",
+      "jobLink": "https://infopark.in/jobs/317",
+      "profileLink": "https://infopark.in/companies-profile/42square-technologies"
+    },
+    {
+      "name": "9Commerce Technologies",
+      "website": "www.commerce9.io",
+      "phone": "9995080656",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/4389Commerce-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/261",
+      "profileLink": "https://infopark.in/companies-profile/9commerce-technologies"
+    },
+    {
+      "name": "Aabasoft Technologies India Private Limited",
+      "website": "www.aabasoft.com",
+      "phone": "+914844172222",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/225225Abasoft PNG  Image (3000 px 1).png",
+      "jobLink": "https://infopark.in/jobs/95",
+      "profileLink": "https://infopark.in/companies-profile/aabasoft-technologies-india-private-limited"
+    },
+    {
+      "name": "Aarbee Structures Pvt.Ltd",
+      "website": "www.aarbeestructures.com",
+      "phone": "+91-9544407555",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/492aarbee.jpg",
+      "jobLink": "https://infopark.in/jobs/315",
+      "profileLink": "https://infopark.in/companies-profile/aarbee-structures-pvt-ltd"
+    },
+    {
+      "name": "Abel Techsoft Private Limited",
+      "website": "www.abeltechsoft.com",
+      "phone": "+919995005969",
+      "domains": [
+        "Software Development",
+        "Software Testing",
+        "Digital Marketing & Content Services",
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/630Abel Techsoft Logo.png",
+      "jobLink": "https://infopark.in/jobs/453",
+      "profileLink": "https://infopark.in/companies-profile/abel-techsoft-private-limited"
+    },
+    {
+      "name": "Abilytics Consulting Pvt Ltd",
+      "website": "www.abilytics.com",
+      "phone": "+91 9496061623",
+      "domains": [
+        "Data Science & Analytics",
+        "Cloud Computing",
+        "Enterprise Solutions",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Abilytics_Consulting_Pvt_Ltd-1754547787.png",
+      "jobLink": "https://infopark.in/jobs/498",
+      "profileLink": "https://infopark.in/companies-profile/abilytics-consulting-pvt-ltd"
+    },
+    {
+      "name": "Acabes International Pvt. Ltd.",
+      "website": "www.acabesinternational.com",
+      "phone": "04844225166",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/504acabes logo_powered-01.png",
+      "jobLink": "https://infopark.in/jobs/327",
+      "profileLink": "https://infopark.in/companies-profile/acabes-international-pvt-ltd"
+    },
+    {
+      "name": "Accelray Technologies Pvt Ltd",
+      "website": "www.accelray.com",
+      "phone": "+9188486 20593",
+      "domains": [
+        "AI",
+        "Open Source"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Accelray_Technologies_Pvt_Ltd-1739509653.png",
+      "jobLink": "https://infopark.in/jobs/469",
+      "profileLink": "https://infopark.in/companies-profile/accelray-technologies-pvt-ltd"
+    },
+    {
+      "name": "Aceware Fintech Services Pvt Ltd (Radiant Acemoney)",
+      "website": "www.acemoney.in",
+      "phone": "0806 898 3333",
+      "domains": [
+        "Finance & Accounting Services",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/aceware.jpg",
+      "jobLink": "https://infopark.in/jobs/237",
+      "profileLink": "https://infopark.in/companies-profile/aceware-fintech-services-pvt-ltd-radiant-acemoney"
+    },
+    {
+      "name": "Acube Innovations",
+      "website": "acubeinnovations.com",
+      "phone": "6235866111",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/421ACube.jpg",
+      "jobLink": "https://infopark.in/jobs/244",
+      "profileLink": "https://infopark.in/companies-profile/acube-innovations"
+    },
+    {
+      "name": "adesso India Private Ltd",
+      "website": "www.adesso.in",
+      "phone": "+91- 77360 95222",
+      "domains": [
+        "Software Testing",
+        "IT Consulting & Managed Services",
+        "Finance & Accounting Services",
+        "UI/UX Design & Development",
+        "Networking & IT Infrastructure"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/591adesso-logo.png",
+      "jobLink": "https://infopark.in/jobs/414",
+      "profileLink": "https://infopark.in/companies-profile/adesso-india-private-ltd"
+    },
+    {
+      "name": "Admaren Tech Pvt Ltd",
+      "website": "admaren.com",
+      "phone": "+91 96333 84111",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/488Admaren Tech Pvt Ltd (1).png",
+      "jobLink": "https://infopark.in/jobs/311",
+      "profileLink": "https://infopark.in/companies-profile/admaren-tech-pvt-ltd"
+    },
+    {
+      "name": "Advenser Engineering Services Private Limited",
+      "website": "www.advenser.com",
+      "phone": "+91 484 4040708",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/260advenser_logo.jpg",
+      "jobLink": "https://infopark.in/jobs/107",
+      "profileLink": "https://infopark.in/companies-profile/advenser-engineering-services-private-limited"
+    },
+    {
+      "name": "Affiliated Computer Services of India, A Xerox Company",
+      "website": "www.xerox.com",
+      "phone": "0484 4090136",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/2xerox Logo.png",
+      "jobLink": "https://infopark.in/jobs/2",
+      "profileLink": "https://infopark.in/companies-profile/affiliated-computer-services-of-india-a-xerox-company"
+    },
+    {
+      "name": "Airo Global Software Pvt Ltd",
+      "website": "www.airoglobal.com",
+      "phone": "+91-7034966777",
+      "domains": [
+        "AI"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/284airo global.png",
+      "jobLink": "https://infopark.in/jobs/124",
+      "profileLink": "https://infopark.in/companies-profile/airo-global-software-pvt-ltd"
+    },
+    {
+      "name": "Airpay Financial Technologies Pvt. Ltd",
+      "website": "www.airpay.co.in",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/444airpay.jpg",
+      "jobLink": "https://infopark.in/jobs/267",
+      "profileLink": "https://infopark.in/companies-profile/airpay-financial-technologies-pvt-ltd"
+    },
+    {
+      "name": "ALB Technologies Pvt Ltd",
+      "website": "www.accuratelegalbilling.com",
+      "phone": "+91- 6238295987",
+      "domains": [
+        "BPO",
+        "Back Office & Administrative Services",
+        "Customer Support & Helpdesk Services",
+        "Finance & Accounting Services",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/ALB_Technologies_Pvt_Ltd-1763633921.jpg",
+      "jobLink": "https://infopark.in/jobs/519",
+      "profileLink": "https://infopark.in/companies-profile/alb-technologies-pvt-ltd"
+    },
+    {
+      "name": "AlignMinds Technologies",
+      "website": "alignminds.com",
+      "phone": "8590036453",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/564Alignminds_Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/387",
+      "profileLink": "https://infopark.in/companies-profile/alignminds-technologies"
+    },
+    {
+      "name": "Alphasky Ventures Pvt. Ltd.",
+      "website": "www.alphasky.aero",
+      "phone": "9895632200",
+      "domains": [
+        "Back Office & Administrative Services",
+        "Customer Support & Helpdesk Services",
+        "Finance & Accounting Services",
+        "Digital Marketing & Content Services",
+        "Data Science & Analytics"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Alphasky_Ventures_Pvt._Ltd.-1781868009.png",
+      "jobLink": "https://infopark.in/jobs/539",
+      "profileLink": "https://infopark.in/companies-profile/alphasky-ventures-pvt-ltd"
+    },
+    {
+      "name": "ALTOS Technologies",
+      "website": "altostechnologies.in",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/545Altos Logo.png",
+      "jobLink": "https://infopark.in/jobs/368",
+      "profileLink": "https://infopark.in/companies-profile/altos-technologies"
+    },
+    {
+      "name": "Amara Raja Design Alpha Private Limited",
+      "website": "www.amararajadesignalpha.com",
+      "phone": "+91 8590905049",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/599Amara Raja-Design alpha-Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/422",
+      "profileLink": "https://infopark.in/companies-profile/amara-raja-design-alpha-private-limited"
+    },
+    {
+      "name": "Amatosoft",
+      "website": "amatosoft.com",
+      "phone": "9400334787",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/418amasoft.jpg",
+      "jobLink": "https://infopark.in/jobs/241",
+      "profileLink": "https://infopark.in/companies-profile/amatosoft"
+    },
+    {
+      "name": "AMIYON SOLUTIONS PVT LTD.",
+      "website": "www.amiyon.com",
+      "phone": "7012013434",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/275Amiyon Solutions 2017.png",
+      "jobLink": "https://infopark.in/jobs/117",
+      "profileLink": "https://infopark.in/companies-profile/amiyon-solutions-pvt-ltd"
+    },
+    {
+      "name": "Amla Consultancy Pvt Ltd",
+      "website": "www.amlaconsultancy.com",
+      "phone": "+91 99613 69999",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/amla.jpg",
+      "jobLink": "https://infopark.in/jobs/224",
+      "profileLink": "https://infopark.in/companies-profile/amla-consultancy-pvt-ltd"
+    },
+    {
+      "name": "Amplitude Software Systems Pvt Ltd",
+      "website": "www.jupiterbs.com",
+      "phone": "91 6282902505",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/503Amplitude Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/326",
+      "profileLink": "https://infopark.in/companies-profile/amplitude-software-systems-pvt-ltd"
+    },
+    {
+      "name": "Appadore Private Limited",
+      "website": "www.appadore.com",
+      "phone": "0484-2956529",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/430Appadore-Logo--01.jpg",
+      "jobLink": "https://infopark.in/jobs/253",
+      "profileLink": "https://infopark.in/companies-profile/appadore-private-limited"
+    },
+    {
+      "name": "Applied Payments Technology Pvt Ltd.",
+      "website": "www.appliedpaymentstech.com",
+      "phone": "0484 485 0362",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/450appliedPyments.png",
+      "jobLink": "https://infopark.in/jobs/273",
+      "profileLink": "https://infopark.in/companies-profile/applied-payments-technology-pvt-ltd"
+    },
+    {
+      "name": "Apps Team Technologies Pvt.Ltd.",
+      "website": "appsteamtechnologies.com",
+      "phone": "+91 484 2982554",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/449Appsteam_Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/272",
+      "profileLink": "https://infopark.in/companies-profile/apps-team-technologies-pvt-ltd"
+    },
+    {
+      "name": "Apro IT Solutions Pvt Ltd",
+      "website": "www.aproitsolutions.com",
+      "phone": "+91 6238683058",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/597Apro-Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/420",
+      "profileLink": "https://infopark.in/companies-profile/apro-it-solutions-pvt-ltd"
+    },
+    {
+      "name": "Armia Systems Pvt. Ltd",
+      "website": "www.armia.com",
+      "phone": "0484 297 3123",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/aramia.gif",
+      "jobLink": "https://infopark.in/jobs/3",
+      "profileLink": "https://infopark.in/companies-profile/armia-systems-pvt-ltd"
+    },
+    {
+      "name": "Array Platforms Pvt Ltd",
+      "website": "array.team",
+      "phone": "0484-4041580",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Array_Platforms_Pvt_Ltd-1739428532.png",
+      "jobLink": "https://infopark.in/jobs/394",
+      "profileLink": "https://infopark.in/companies-profile/array-platforms-pvt-ltd"
+    },
+    {
+      "name": "Art Technology and Software.",
+      "website": "www.artechsoft.com",
+      "phone": "0484-2415244",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/7ART_Logo_for-web.jpg",
+      "jobLink": "https://infopark.in/jobs/4",
+      "profileLink": "https://infopark.in/companies-profile/art-technology-and-software"
+    },
+    {
+      "name": "Aspire Systems Digital Private Limited",
+      "website": "www.aspiresys.com",
+      "phone": "0484 4061901",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/80aspire-logo.png",
+      "jobLink": "https://infopark.in/jobs/36",
+      "profileLink": "https://infopark.in/companies-profile/aspire-systems-digital-private-limited"
+    },
+    {
+      "name": "AVENTUS INFORMATICS",
+      "website": "www.aventusinformatics.com",
+      "phone": "7907091213",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/AVENTUS_INFORMATICS-1778500877.png",
+      "jobLink": "https://infopark.in/jobs/148",
+      "profileLink": "https://infopark.in/companies-profile/aventus-informatics"
+    },
+    {
+      "name": "Ayata Commerce Tech Solutions Pvt Ltd",
+      "website": "www.ayatacommerce.com",
+      "phone": "+919995473245",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/476ayata-logo-colour.jpg",
+      "jobLink": "https://infopark.in/jobs/299",
+      "profileLink": "https://infopark.in/companies-profile/ayata-commerce-tech-solutions-pvt-ltd"
+    },
+    {
+      "name": "Banzan Studios",
+      "website": "www.banzan.co",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/640BANZAN_LOGO.png",
+      "jobLink": "https://infopark.in/jobs/463",
+      "profileLink": "https://infopark.in/companies-profile/banzan-studios"
+    },
+    {
+      "name": "Beinex Consulting Pvt Ltd",
+      "website": "www.beinex.com",
+      "phone": "6238389957",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/437beinex-Logo.png",
+      "jobLink": "https://infopark.in/jobs/260",
+      "profileLink": "https://infopark.in/companies-profile/beinex-consulting-pvt-ltd"
+    },
+    {
+      "name": "Beth Soft Technologies India Private Limited",
+      "website": "www.bethsofttechnologies.com",
+      "phone": "9633849485",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/502beth-soft-technologies.png",
+      "jobLink": "https://infopark.in/jobs/325",
+      "profileLink": "https://infopark.in/companies-profile/beth-soft-technologies-india-private-limited"
+    },
+    {
+      "name": "Bhooshan's Junior",
+      "website": "www.bhooshansjr.in",
+      "phone": "04843539863",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/404Bhooshan's Jr Logo.png",
+      "jobLink": "https://infopark.in/jobs/227",
+      "profileLink": "https://infopark.in/companies-profile/bhooshan-s-junior"
+    },
+    {
+      "name": "BIMEX Engineers",
+      "website": "bimexeng.com",
+      "phone": "+91 81293 21656",
+      "domains": [
+        "MEP",
+        "BIM (Building Information Modeling) Solutions"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Bimex_Engineers_LLP-1760439289.png",
+      "jobLink": "https://infopark.in/jobs/505",
+      "profileLink": "https://infopark.in/companies-profile/bimex-engineers"
+    },
+    {
+      "name": "Binaries",
+      "website": "www.binariesindia.com",
+      "phone": "+918547644145",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/580binaries logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/403",
+      "profileLink": "https://infopark.in/companies-profile/binaries"
+    },
+    {
+      "name": "BJ Corps Technologies (OPC) Private Limited",
+      "website": "www.bjcorps.com",
+      "phone": "9846691115",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/bj-corps.jpg",
+      "jobLink": "https://infopark.in/jobs/97",
+      "profileLink": "https://infopark.in/companies-profile/bj-corps-technologies-opc-private-limited"
+    },
+    {
+      "name": "Braddock Infotech Pvt. Ltd.",
+      "website": "www.braddockinfotech.com",
+      "phone": "+91 9447530986",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/135Braddock-Infotech-Logo.png",
+      "jobLink": "https://infopark.in/jobs/51",
+      "profileLink": "https://infopark.in/companies-profile/braddock-infotech-pvt-ltd"
+    },
+    {
+      "name": "Braid Technologies Pvt. Ltd",
+      "website": null,
+      "phone": "9847128982",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/371braid_technologies267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/199",
+      "profileLink": "https://infopark.in/companies-profile/braid-technologies-pvt-ltd"
+    },
+    {
+      "name": "Bramma IT Solutions",
+      "website": "www.brammait.com",
+      "phone": "+91 9895027444",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/620BITS-LOGO.png",
+      "jobLink": "https://infopark.in/jobs/443",
+      "profileLink": "https://infopark.in/companies-profile/bramma-it-solutions"
+    },
+    {
+      "name": "Brennan IT India Private Limited",
+      "website": "www.brennanit.com.au",
+      "phone": "8097548206",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/515Brennan Merchandise.png",
+      "jobLink": "https://infopark.in/jobs/338",
+      "profileLink": "https://infopark.in/companies-profile/brennan-it-india-private-limited"
+    },
+    {
+      "name": "BroadTech IT Solutions Pvt Ltd",
+      "website": "www.broadtech-innovations.com",
+      "phone": "+91 9048654482",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/634BTI_Logo.png",
+      "jobLink": "https://infopark.in/jobs/457",
+      "profileLink": "https://infopark.in/companies-profile/broadtech-it-solutions-pvt-ltd"
+    },
+    {
+      "name": "Cabot Technology Solutions Pvt. Ltd.",
+      "website": "www.cabotsolutions.com",
+      "phone": "0484 404 5555",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/167cabot-logo.png",
+      "jobLink": "https://infopark.in/jobs/64",
+      "profileLink": "https://infopark.in/companies-profile/cabot-technology-solutions-pvt-ltd"
+    },
+    {
+      "name": "Calpine Group",
+      "website": "www.calpinetech.com",
+      "phone": "+91 484 241 5030",
+      "domains": [
+        "Artificial Intelligence (AI) / Machine Learning (ML)",
+        "Lab Automation",
+        "Cheminformatics",
+        "Bioinformatics",
+        "Life Science"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/1profilecalpine.jpg",
+      "jobLink": "https://infopark.in/jobs/1",
+      "profileLink": "https://infopark.in/companies-profile/calpine-group"
+    },
+    {
+      "name": "CareRevenue Technology Pvt. Ltd.",
+      "website": "https://carerevenue.com/",
+      "phone": "7510200399",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/480good_methods.jpg",
+      "jobLink": "https://infopark.in/jobs/303",
+      "profileLink": "https://infopark.in/companies-profile/carerevenue-technology-pvt-ltd"
+    },
+    {
+      "name": "Carnegie Worldwide Services Pvt Ltd",
+      "website": "www.carnegieworldwideservices.com",
+      "phone": "04844609761",
+      "domains": [
+        "Back Office & Administrative Services",
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Carnegie_Worldwide_Services_Pvt_Ltd-1755597817.png",
+      "jobLink": "https://infopark.in/jobs/500",
+      "profileLink": "https://infopark.in/companies-profile/carnegie-worldwide-services-pvt-ltd"
+    },
+    {
+      "name": "Carol Solutions",
+      "website": "www.carolsolutions.com",
+      "phone": "+91 9846010135",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/612Carol- Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/435",
+      "profileLink": "https://infopark.in/companies-profile/carol-solutions"
+    },
+    {
+      "name": "Cascade Revenue Management Pvt. Ltd",
+      "website": "www.aimabms.com",
+      "phone": "0484 4861626",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/304cascade-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/138",
+      "profileLink": "https://infopark.in/companies-profile/cascade-revenue-management-pvt-ltd"
+    },
+    {
+      "name": "Cavli Wireless",
+      "website": "www.cavliwireless.com",
+      "phone": "8893204111",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/454Cavli_Wireless.png",
+      "jobLink": "https://infopark.in/jobs/277",
+      "profileLink": "https://infopark.in/companies-profile/cavli-wireless"
+    },
+    {
+      "name": "CCS Technologies (P) Ltd",
+      "website": "www.ccs-technologies.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/105mm_pms_logo.png",
+      "jobLink": "https://infopark.in/jobs/43",
+      "profileLink": "https://infopark.in/companies-profile/ccs-technologies-p-ltd"
+    },
+    {
+      "name": "CEREIV Advisory LLP",
+      "website": "www.cereiv.com",
+      "phone": "9745767949",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/447CEREIV-Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/270",
+      "profileLink": "https://infopark.in/companies-profile/cereiv-advisory-llp"
+    },
+    {
+      "name": "CHISQUARE LABS",
+      "website": "chisquarelabs.com",
+      "phone": "7356949900",
+      "domains": [
+        "Robotics & Automation",
+        "Data Science & Analytics",
+        "Cybersecurity",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/CHISQUARE_LABS-1761802263.png",
+      "jobLink": "https://infopark.in/jobs/509",
+      "profileLink": "https://infopark.in/companies-profile/chisquare-labs"
+    },
+    {
+      "name": "CipherPeak Private Limited",
+      "website": "cipherpeakpvtltd.com",
+      "phone": "+91 90747 07573, +91 97467 11096",
+      "domains": [
+        "Digital Marketing & Content Services",
+        "UI/UX Design & Development",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/CipherPeak_Private_Limited-1760079291.png",
+      "jobLink": "https://infopark.in/jobs/504",
+      "profileLink": "https://infopark.in/companies-profile/cipherpeak-private-limited"
+    },
+    {
+      "name": "Classic Technologies & Business Solutions Pvt. Ltd.",
+      "website": "www.ctebs.com",
+      "phone": "+91 9048400038",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Classic_Technologies_&_Business_Solutions_Pvt._Ltd.-1763619436.jpg",
+      "jobLink": "https://infopark.in/jobs/340",
+      "profileLink": "https://infopark.in/companies-profile/classic-technologies-business-solutions-pvt-ltd"
+    },
+    {
+      "name": "ClaySys Technologies Pvt.Ltd",
+      "website": "www.claysys.com",
+      "phone": "0484 297 5311",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/188clasis.png",
+      "jobLink": "https://infopark.in/jobs/71",
+      "profileLink": "https://infopark.in/companies-profile/claysys-technologies-pvt-ltd"
+    },
+    {
+      "name": "Clevero India Pvt. Ltd.",
+      "website": "www.cleverotel.com",
+      "phone": "98952 25072",
+      "domains": [
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Clevero_India_Pvt._Ltd.-1777362904.png",
+      "jobLink": "https://infopark.in/jobs/533",
+      "profileLink": "https://infopark.in/companies-profile/clevero-india-pvt-ltd"
+    },
+    {
+      "name": "CloudHouse Technologies Pvt.Ltd",
+      "website": "cloudhousetechnologies.com",
+      "phone": "0480 2737360,",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development",
+        "Cloud Computing",
+        "Enterprise Solutions",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/CloudHouse_Technologies_Pvt.Ltd-1743674667.png",
+      "jobLink": "https://infopark.in/jobs/480",
+      "profileLink": "https://infopark.in/companies-profile/cloudhouse-technologies-pvt-ltd"
+    },
+    {
+      "name": "Cloudium Software Pvt. Ltd.",
+      "website": "www.cloudium.io",
+      "phone": "04844850733",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/325White-BG.jpg",
+      "jobLink": "https://infopark.in/jobs/158",
+      "profileLink": "https://infopark.in/companies-profile/cloudium-software-pvt-ltd"
+    },
+    {
+      "name": "CLOUDVICE",
+      "website": "www.cloudvice.com",
+      "phone": "9037122872",
+      "domains": [
+        "Data Science & Analytics",
+        "Cloud Computing",
+        "Enterprise Solutions",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/CLOUDVICE-1764588455.png",
+      "jobLink": "https://infopark.in/jobs/520",
+      "profileLink": "https://infopark.in/companies-profile/cloudvice"
+    },
+    {
+      "name": "CodeDesign Technologies Pvt Ltd",
+      "website": "codedesign.in",
+      "phone": "7558825266",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/420Codedesign.jpg",
+      "jobLink": "https://infopark.in/jobs/243",
+      "profileLink": "https://infopark.in/companies-profile/codedesign-technologies-pvt-ltd"
+    },
+    {
+      "name": "Codelynks Software Solutions Private Limited",
+      "website": "www.codelynks.com",
+      "phone": "0484 402 6866",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Codelynks_Software_Solutions_Private_Limited-1741089056.png",
+      "jobLink": "https://infopark.in/jobs/188",
+      "profileLink": "https://infopark.in/companies-profile/codelynks-software-solutions-private-limited"
+    },
+    {
+      "name": "CodeNext Technologies Pvt. Ltd.",
+      "website": "www.codenexttechnologies.com",
+      "phone": "9447406836",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/539CodeNext_Logo.png",
+      "jobLink": "https://infopark.in/jobs/362",
+      "profileLink": "https://infopark.in/companies-profile/codenext-technologies-pvt-ltd"
+    },
+    {
+      "name": "Codmeric Infotech Pvt. Ltd.",
+      "website": "www.codmeric.com",
+      "phone": "+91 9605111710",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/378codmeric267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/205",
+      "profileLink": "https://infopark.in/companies-profile/codmeric-infotech-pvt-ltd"
+    },
+    {
+      "name": "Cognicor Technologies Pvt.Ltd",
+      "website": "www.cognicor.com",
+      "phone": "0484 241 5600",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/191logo_new3.png",
+      "jobLink": "https://infopark.in/jobs/74",
+      "profileLink": "https://infopark.in/companies-profile/cognicor-technologies-pvt-ltd"
+    },
+    {
+      "name": "Cognizant Technology Solutions",
+      "website": "www.cognizant.com",
+      "phone": "0484 392 1000",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Cognizant_Technology_Solutions-1738750163.png",
+      "jobLink": "https://infopark.in/jobs/42",
+      "profileLink": "https://infopark.in/companies-profile/cognizant-technology-solutions"
+    },
+    {
+      "name": "Coinone Global Solutions Pvt Ltd",
+      "website": "www.coinoneglobal.com",
+      "phone": "+91 999 5205 444",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/613coinone-logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/436",
+      "profileLink": "https://infopark.in/companies-profile/coinone-global-solutions-pvt-ltd"
+    },
+    {
+      "name": "Conduent Business Services LLP",
+      "website": "www.conduent.com",
+      "phone": "0484-2020202",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/462Conduent.png",
+      "jobLink": "https://infopark.in/jobs/285",
+      "profileLink": "https://infopark.in/companies-profile/conduent-business-services-llp"
+    },
+    {
+      "name": "Consoul Associates",
+      "website": "www.consoulassociates.com",
+      "phone": "+91-9072256810",
+      "domains": [
+        "Digital Trasformation Consulting",
+        "Management Consulting"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Consoul_Associates-1773656412.png",
+      "jobLink": "https://infopark.in/jobs/532",
+      "profileLink": "https://infopark.in/companies-profile/consoul-associates"
+    },
+    {
+      "name": "ContactPoint 360",
+      "website": "www.contactpoint360.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/483CP360 Logo.png",
+      "jobLink": "https://infopark.in/jobs/306",
+      "profileLink": "https://infopark.in/companies-profile/contactpoint-360"
+    },
+    {
+      "name": "CoolMinds Technologies Pvt Ltd.",
+      "website": "www.coolmindsinc.com",
+      "phone": "0484 241 5121",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/coolminds_logo.gif",
+      "jobLink": "https://infopark.in/jobs/6",
+      "profileLink": "https://infopark.in/companies-profile/coolminds-technologies-pvt-ltd"
+    },
+    {
+      "name": "Crossgen Technologies",
+      "website": "www.crossgentech.com",
+      "phone": "0484-2992021",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/464Crossgen-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/287",
+      "profileLink": "https://infopark.in/companies-profile/crossgen-technologies"
+    },
+    {
+      "name": "CSEIDC TECHNOLOGIES PVT LTD",
+      "website": "www.cse.com.sa",
+      "phone": "+91 9037005084",
+      "domains": [
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/cseidctechnologies@gmail.com-1748416102.jpg",
+      "jobLink": "https://infopark.in/jobs/481",
+      "profileLink": "https://infopark.in/companies-profile/cseidc-technologies-pvt-ltd"
+    },
+    {
+      "name": "Cubet Techno Labs Pvt.Ltd",
+      "website": "www.cubettech.com",
+      "phone": "0484-4054324",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/177logo.png",
+      "jobLink": "https://infopark.in/jobs/68",
+      "profileLink": "https://infopark.in/companies-profile/cubet-techno-labs-pvt-ltd"
+    },
+    {
+      "name": "Currentware India Pvt Ltd.",
+      "website": "www.currentware.com",
+      "phone": "+91-484-4055678",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Currentware_India_Pvt_Ltd.-1773037626.png",
+      "jobLink": "https://infopark.in/jobs/5",
+      "profileLink": "https://infopark.in/companies-profile/currentware-india-pvt-ltd"
+    },
+    {
+      "name": "CVS Info Solutions Private Limited",
+      "website": "www.cvsinfosolutions.com",
+      "phone": "+918921947372",
+      "domains": [
+        "Digital Marketing & Content Services",
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development",
+        "Enterprise Solutions",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/CVS_Info_Solutions_Private_Limited-1769237300.png",
+      "jobLink": "https://infopark.in/jobs/523",
+      "profileLink": "https://infopark.in/companies-profile/cvs-info-solutions-private-limited"
+    },
+    {
+      "name": "Cyberion Software Solutions Pvt. Ltd",
+      "website": "www.pharma-erp.com",
+      "phone": "+91 9995801261",
+      "domains": [
+        "Software Development",
+        "Enterprise Solutions",
+        "ERP",
+        ".Net",
+        "AI"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Cyberion_Software_Solutions_Pvt._Ltd-1760078521.jpg",
+      "jobLink": "https://infopark.in/jobs/502",
+      "profileLink": "https://infopark.in/companies-profile/cyberion-software-solutions-pvt-ltd"
+    },
+    {
+      "name": "Cybrosys Technologies Pvt. Ltd.",
+      "website": "www.cybrosys.com",
+      "phone": "0484 320 0080",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/210300 x 100 copy.jpg",
+      "jobLink": "https://infopark.in/jobs/86",
+      "profileLink": "https://infopark.in/companies-profile/cybrosys-technologies-pvt-ltd"
+    },
+    {
+      "name": "Daddara",
+      "website": "daddara.in",
+      "phone": "8921062753",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/553daddara logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/376",
+      "profileLink": "https://infopark.in/companies-profile/daddara"
+    },
+    {
+      "name": "Daskalos virtual Academy pvt Limited",
+      "website": "mytuitionapp.com",
+      "phone": "+91- 9778968024",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/50590+mytuition app logo.jpg",
+      "jobLink": "https://infopark.in/jobs/328",
+      "profileLink": "https://infopark.in/companies-profile/daskalos-virtual-academy-pvt-limited"
+    },
+    {
+      "name": "Dataequinox",
+      "website": "www.dataequinox.com",
+      "phone": "+919074083251",
+      "domains": [
+        "AI"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/625dataequinox_logo.png",
+      "jobLink": "https://infopark.in/jobs/448",
+      "profileLink": "https://infopark.in/companies-profile/dataequinox"
+    },
+    {
+      "name": "Datafloat Technologies India Pvt Ltd",
+      "website": "www.idcglobal.com",
+      "phone": "0484 2975161",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/datafLogo.gif",
+      "jobLink": "https://infopark.in/jobs/24",
+      "profileLink": "https://infopark.in/companies-profile/datafloat-technologies-india-pvt-ltd"
+    },
+    {
+      "name": "Datum Innovation",
+      "website": "www.datuminnovation.com",
+      "phone": "0478 2554009       Mob: 9961734403",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/212LogoInnovates.png",
+      "jobLink": "https://infopark.in/jobs/87",
+      "profileLink": "https://infopark.in/companies-profile/datum-innovation"
+    },
+    {
+      "name": "DBiz AI Solutions Pvt. Ltd.",
+      "website": "dbiz.ai",
+      "phone": "9995617998",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development",
+        "Internet of Things (IoT)",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/DBiz_AI_Solutions_Pvt._Ltd.-1743674379.png",
+      "jobLink": "https://infopark.in/jobs/479",
+      "profileLink": "https://infopark.in/companies-profile/dbiz-ai-solutions-pvt-ltd"
+    },
+    {
+      "name": "Dee and Lee Services",
+      "website": "www.deeandlee.com",
+      "phone": "+919293811579",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Dee_and_Lee_Services-1755340443.jpg",
+      "jobLink": "https://infopark.in/jobs/499",
+      "profileLink": "https://infopark.in/companies-profile/dee-and-lee-services"
+    },
+    {
+      "name": "Difinity Digital",
+      "website": "difinitydigital.com",
+      "phone": "+91 99950 99789",
+      "domains": [
+        "Robotics & Automation",
+        "IT Consulting & Managed Services",
+        "Data Science & Analytics",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Difinity_Digital-1753080024.png",
+      "jobLink": "https://infopark.in/jobs/495",
+      "profileLink": "https://infopark.in/companies-profile/difinity-digital"
+    },
+    {
+      "name": "Digiora Technologies Pvt.Ltd.",
+      "website": "www.digiora.com",
+      "phone": "0484 4061387",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/427Digiora-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/250",
+      "profileLink": "https://infopark.in/companies-profile/digiora-technologies-pvt-ltd"
+    },
+    {
+      "name": "Dimensions Cybertech India Pvt. Ltd.",
+      "website": "www.dimensionslive.com",
+      "phone": "080-61860333",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/dimensions_logo_new.gif",
+      "jobLink": "https://infopark.in/jobs/7",
+      "profileLink": "https://infopark.in/companies-profile/dimensions-cybertech-india-pvt-ltd"
+    },
+    {
+      "name": "Distinct Infotech Solutions",
+      "website": "www.distinctinfotech.com",
+      "phone": "+91 9074508742",
+      "domains": [
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Distinct_Infotech_Solutions-1772617254.jpg",
+      "jobLink": "https://infopark.in/jobs/529",
+      "profileLink": "https://infopark.in/companies-profile/distinct-infotech-solutions"
+    },
+    {
+      "name": "DOCGIANT SERVICES INDIA PVT.LTD.",
+      "website": "www.docgiant.com",
+      "phone": "6282503130",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/321logo 5.png",
+      "jobLink": "https://infopark.in/jobs/154",
+      "profileLink": "https://infopark.in/companies-profile/docgiant-services-india-pvt-ltd"
+    },
+    {
+      "name": "Dooth Internet Service Pvt. Ltd.",
+      "website": "www.dooth.com",
+      "phone": "+91 9249097368",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/615Dooth Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/438",
+      "profileLink": "https://infopark.in/companies-profile/dooth-internet-service-pvt-ltd"
+    },
+    {
+      "name": "Dot In Technologies",
+      "website": "https://www.dotintech.com",
+      "phone": "919446625200",
+      "domains": [
+        "Mobile Application Development",
+        "AI",
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/387dotlogo.png",
+      "jobLink": "https://infopark.in/jobs/213",
+      "profileLink": "https://infopark.in/companies-profile/dot-in-technologies"
+    },
+    {
+      "name": "Dynactionize India Pvt Ltd",
+      "website": "www.consono.ai",
+      "phone": "+91 91 880 70144",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/272dyna1.png",
+      "jobLink": "https://infopark.in/jobs/115",
+      "profileLink": "https://infopark.in/companies-profile/dynactionize-india-pvt-ltd"
+    },
+    {
+      "name": "Dynamed Healthcare Solutions Pvt.Ltd.",
+      "website": "www.dynamedhealth.com",
+      "phone": "9072955500,0484-2977227",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/NULL",
+      "jobLink": "https://infopark.in/jobs/132",
+      "profileLink": "https://infopark.in/companies-profile/dynamed-healthcare-solutions-pvt-ltd"
+    },
+    {
+      "name": "Edstem Technologies Pvt Ltd",
+      "website": "www.edstem.com",
+      "phone": "+91 9048738807",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/518Edstem_logo.png",
+      "jobLink": "https://infopark.in/jobs/341",
+      "profileLink": "https://infopark.in/companies-profile/edstem-technologies-pvt-ltd"
+    },
+    {
+      "name": "EGC Global Services India Pvt Ltd",
+      "website": "www.egcgs.theegc.com",
+      "phone": "+91 9946567777",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/507EGC - LOGO.jpg",
+      "jobLink": "https://infopark.in/jobs/330",
+      "profileLink": "https://infopark.in/companies-profile/egc-global-services-india-pvt-ltd"
+    },
+    {
+      "name": "Electrifex Technologies Pvt. Ltd",
+      "website": "www.electrifex.com",
+      "phone": "+91 8590137646",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/602ElectrifexLogo.jpg",
+      "jobLink": "https://infopark.in/jobs/425",
+      "profileLink": "https://infopark.in/companies-profile/electrifex-technologies-pvt-ltd"
+    },
+    {
+      "name": "ELEMMENT FAÇADE Pvt Ltd",
+      "website": "www.elemmentfacade.com",
+      "phone": "+91 8089894683",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/600ELEMMENT-FACADE-logo-new.png",
+      "jobLink": "https://infopark.in/jobs/423",
+      "profileLink": "https://infopark.in/companies-profile/elemment-fa-ade-pvt-ltd"
+    },
+    {
+      "name": "EMATRIX SOFTWARE PRIVATE LIMITED",
+      "website": "www.ematrixsoftware.com",
+      "phone": "+917356451100",
+      "domains": [
+        "Customer Support & Helpdesk Services",
+        "Finance & Accounting Services",
+        "IT Consulting & Managed Services",
+        "Enterprise Solutions",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/EMATRIX_SOFTWARE_PRIVATE_LIMITED-1786619079.png",
+      "jobLink": "https://infopark.in/jobs/544",
+      "profileLink": "https://infopark.in/companies-profile/ematrix-software-private-limited"
+    },
+    {
+      "name": "Emergio Technologies Pvt Ltd",
+      "website": "emergiogames.com",
+      "phone": "+91 7593898080",
+      "domains": [
+        "Game Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Emergio_Technologies_Pvt_Ltd-1779793350.png",
+      "jobLink": "https://infopark.in/jobs/534",
+      "profileLink": "https://infopark.in/companies-profile/emergio-technologies-pvt-ltd"
+    },
+    {
+      "name": "Empay Software Solutions Private Limited",
+      "website": "www.empaysoft.com",
+      "phone": "0484-4865189",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/428Empay-Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/251",
+      "profileLink": "https://infopark.in/companies-profile/empay-software-solutions-private-limited"
+    },
+    {
+      "name": "Empress InfoTech",
+      "website": "empressinfotech.com",
+      "phone": "0484-4042440",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/181Empress_Infotech_Logo_15032016.png",
+      "jobLink": "https://infopark.in/jobs/70",
+      "profileLink": "https://infopark.in/companies-profile/empress-infotech"
+    },
+    {
+      "name": "Emsyne Technologies Private Limited",
+      "website": "www.emsyne.com",
+      "phone": "0484-6677602 , 0484-6677604",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/193logo.png",
+      "jobLink": "https://infopark.in/jobs/76",
+      "profileLink": "https://infopark.in/companies-profile/emsyne-technologies-private-limited"
+    },
+    {
+      "name": "Endeion Engineering Services Pvt.Ltd.",
+      "website": "www.endeion.com",
+      "phone": "+91 88489 06400",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/594Endeion_Logo.png",
+      "jobLink": "https://infopark.in/jobs/417",
+      "profileLink": "https://infopark.in/companies-profile/endeion-engineering-services-pvt-ltd"
+    },
+    {
+      "name": "EnergyScape Renewables LLP",
+      "website": "www.energyscaperenewables.com",
+      "phone": "+91 9207130069",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/563ESR-Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/386",
+      "profileLink": "https://infopark.in/companies-profile/energyscape-renewables-llp"
+    },
+    {
+      "name": "EPI-USE India Pvt.Ltd.",
+      "website": "www.epiuse.com",
+      "phone": "+91 9778316023",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/468Epi-Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/291",
+      "profileLink": "https://infopark.in/companies-profile/epi-use-india-pvt-ltd"
+    },
+    {
+      "name": "Epixel Solutions Pvt Ltd",
+      "website": "www.epixelsolutions.com",
+      "phone": "+91491 2970123",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/519epixel logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/342",
+      "profileLink": "https://infopark.in/companies-profile/epixel-solutions-pvt-ltd"
+    },
+    {
+      "name": "Eqsoft Business Solutions Pvt Ltd",
+      "website": "eqsoftonline.com",
+      "phone": "9946017660",
+      "domains": [
+        "ERP",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/463esoft.png",
+      "jobLink": "https://infopark.in/jobs/286",
+      "profileLink": "https://infopark.in/companies-profile/eqsoft-business-solutions-pvt-ltd"
+    },
+    {
+      "name": "Estro Tech Robotics and Innovations Pvt Ltd",
+      "website": "www.estrotech.in",
+      "phone": "+91 7306153206",
+      "domains": [
+        "Robotics & Automation",
+        "Internet of Things (IoT)",
+        "Cloud Computing",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Estro_Tech_Robotics_and_Innovations_Pvt_Ltd-1748417995.jpg",
+      "jobLink": "https://infopark.in/jobs/486",
+      "profileLink": "https://infopark.in/companies-profile/estro-tech-robotics-and-innovations-pvt-ltd"
+    },
+    {
+      "name": "EXACORE IT SOLUTIONS PRIVATE LIMITED",
+      "website": "www.exacoreitsolutions.com",
+      "phone": "+918138916160",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/337Exacore_logo-267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/169",
+      "profileLink": "https://infopark.in/companies-profile/exacore-it-solutions-private-limited"
+    },
+    {
+      "name": "Exor India Pvt Ltd.",
+      "website": "https://www.exorint.com",
+      "phone": "04842415101",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Exor_India_Pvt_Ltd.-1739167549.png",
+      "jobLink": "https://infopark.in/jobs/8",
+      "profileLink": "https://infopark.in/companies-profile/exor-india-pvt-ltd"
+    },
+    {
+      "name": "Expeed Software Private Limited",
+      "website": "expeed.com",
+      "phone": "0091- 9633066613",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/629Expeed logo.png",
+      "jobLink": "https://infopark.in/jobs/452",
+      "profileLink": "https://infopark.in/companies-profile/expeed-software-private-limited"
+    },
+    {
+      "name": "Experion Technologies",
+      "website": "www.experionglobal.com",
+      "phone": "04843067309",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/252Logo_experion.jpg",
+      "jobLink": "https://infopark.in/jobs/103",
+      "profileLink": "https://infopark.in/companies-profile/experion-technologies"
+    },
+    {
+      "name": "Exponential Digital Solutions Pvt.Ltd.",
+      "website": "www.10xds.com",
+      "phone": "+91 471 254 4210",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/350logoWithTM 267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/179",
+      "profileLink": "https://infopark.in/companies-profile/exponential-digital-solutions-pvt-ltd"
+    },
+    {
+      "name": "Extravelmoney Technosol Private Limited",
+      "website": "www.extravelmoney.com",
+      "phone": "9072000850",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/extravel.jpg",
+      "jobLink": "https://infopark.in/jobs/239",
+      "profileLink": "https://infopark.in/companies-profile/extravelmoney-technosol-private-limited"
+    },
+    {
+      "name": "Facade Global Pvt. Ltd.",
+      "website": "www.facadeglobal.in",
+      "phone": "+91 0484 4010129",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/452facade.jpg",
+      "jobLink": "https://infopark.in/jobs/275",
+      "profileLink": "https://infopark.in/companies-profile/facade-global-pvt-ltd"
+    },
+    {
+      "name": "FDC Web Technologies Pvt Ltd",
+      "website": "https://financialcom.jobs.personio.de/",
+      "phone": "7025118844",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/363FDC Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/192",
+      "profileLink": "https://infopark.in/companies-profile/fdc-web-technologies-pvt-ltd"
+    },
+    {
+      "name": "Feathersoft Info Solutions Private Ltd",
+      "website": "www.feathersoft.com",
+      "phone": "+91 7736028401",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/446Feathersoft_logo.png",
+      "jobLink": "https://infopark.in/jobs/269",
+      "profileLink": "https://infopark.in/companies-profile/feathersoft-info-solutions-private-ltd"
+    },
+    {
+      "name": "Federal Operations and Services Ltd (FedServ)",
+      "website": "fedserv.co.in",
+      "phone": "04842412048, 8089908700",
+      "domains": [
+        "Customer Support & Helpdesk Services",
+        "Finance & Accounting Services",
+        "Networking & IT Infrastructure",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Federal_Operations_and_Services_Ltd_(FedServ)-1785217388.jpg",
+      "jobLink": "https://infopark.in/jobs/540",
+      "profileLink": "https://infopark.in/companies-profile/federal-operations-and-services-ltd-fedserv-1"
+    },
+    {
+      "name": "Fine Destination",
+      "website": "www.finedestination.co.in",
+      "phone": "7012155322",
+      "domains": [
+        "Customer Support & Helpdesk Services",
+        "IT Consulting & Managed Services",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Fine_Destination-1754547555.png",
+      "jobLink": "https://infopark.in/jobs/497",
+      "profileLink": "https://infopark.in/companies-profile/fine-destination"
+    },
+    {
+      "name": "Fingent Global Solutions",
+      "website": "www.fingent.com",
+      "phone": "0484-4055006",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/204fingent_logo_2014(300X100px).png",
+      "jobLink": "https://infopark.in/jobs/83",
+      "profileLink": "https://infopark.in/companies-profile/fingent-global-solutions"
+    },
+    {
+      "name": "FIRMINIQ SYSTEMS",
+      "website": "www.firminiq.com",
+      "phone": "+916284303739",
+      "domains": [
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/467firminiq.png",
+      "jobLink": "https://infopark.in/jobs/290",
+      "profileLink": "https://infopark.in/companies-profile/firminiq-systems"
+    },
+    {
+      "name": "Flycatch Infotech Pvt. Ltd.",
+      "website": "www.flycatchtech.com",
+      "phone": "+91 7736830531",
+      "domains": [
+        "Data Science & Analytics",
+        "Cloud Computing",
+        "Enterprise Solutions",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Flycatch_Infotech_Pvt._Ltd.-1770788746.png",
+      "jobLink": "https://infopark.in/jobs/525",
+      "profileLink": "https://infopark.in/companies-profile/flycatch-infotech-pvt-ltd"
+    },
+    {
+      "name": "Focal ME Design Solutions Pvt Ltd",
+      "website": "www.focalpm.com",
+      "phone": "04802082974",
+      "domains": [
+        "BIM (Building Information Modeling) Solutions",
+        "Structural & Sustainability",
+        "MEP"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Focal_ME_Design_Solutions_Pvt_Ltd-1742448423.png",
+      "jobLink": "https://infopark.in/jobs/478",
+      "profileLink": "https://infopark.in/companies-profile/focal-me-design-solutions-pvt-ltd"
+    },
+    {
+      "name": "Focaloid Technologies Private Limited",
+      "website": "www.focaloid.com",
+      "phone": "+91-484-7136778",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/543Focaloid_Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/366",
+      "profileLink": "https://infopark.in/companies-profile/focaloid-technologies-private-limited"
+    },
+    {
+      "name": "Founding Minds software Pvt.Ltd",
+      "website": "www.foundingminds.com",
+      "phone": "0484-4042200, 4042202",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/109logo-fms.gif",
+      "jobLink": "https://infopark.in/jobs/46",
+      "profileLink": "https://infopark.in/companies-profile/founding-minds-software-pvt-ltd"
+    },
+    {
+      "name": "Fragomen Immigration Services  India Private Limited",
+      "website": "www.fragomen.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/222222Fragomen_worldwide_375_green_hires - Copy.jpg",
+      "jobLink": "https://infopark.in/jobs/92",
+      "profileLink": "https://infopark.in/companies-profile/fragomen-immigration-services-india-private-limited"
+    },
+    {
+      "name": "G10X INDIA PRIVATE LIMITED",
+      "website": "www.g10x.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/429G10X.jpg",
+      "jobLink": "https://infopark.in/jobs/252",
+      "profileLink": "https://infopark.in/companies-profile/g10x-india-private-limited"
+    },
+    {
+      "name": "Galactico Express Solutions Pvt. Ltd.",
+      "website": "www.gecs.me",
+      "phone": "9446373443",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Galactico_Express_Solutions_Pvt._Ltd.-1740479628.png",
+      "jobLink": "https://infopark.in/jobs/472",
+      "profileLink": "https://infopark.in/companies-profile/galactico-express-solutions-pvt-ltd"
+    },
+    {
+      "name": "GALTech Technologies Pvt Ltd",
+      "website": "www.galtech.org",
+      "phone": "04802951674, +91 6282845368",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/360Adinfopark-logo1-1.png",
+      "jobLink": "https://infopark.in/jobs/189",
+      "profileLink": "https://infopark.in/companies-profile/galtech-technologies-pvt-ltd"
+    },
+    {
+      "name": "Gapblue Software Labs Pvt Ltd",
+      "website": "www.gapblue.com/about",
+      "phone": "0484-4010593",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/605Gapblue-Logo.png",
+      "jobLink": "https://infopark.in/jobs/428",
+      "profileLink": "https://infopark.in/companies-profile/gapblue-software-labs-pvt-ltd"
+    },
+    {
+      "name": "GEOJIT TECHNOLOGIES PVT LTD",
+      "website": "geojit.tech",
+      "phone": "04842901901",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/169GTL-logo.png",
+      "jobLink": "https://infopark.in/jobs/65",
+      "profileLink": "https://infopark.in/companies-profile/geojit-technologies-pvt-ltd"
+    },
+    {
+      "name": "Gewan Info Tech Solutions India Pvt Ltd.",
+      "website": "www.gewaninfotech.com",
+      "phone": "+91 75109 53184, +91 75109 53185",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Gewan_Info_Tech_Solutions_India_Pvt_Ltd.-1739881112.png",
+      "jobLink": "https://infopark.in/jobs/298",
+      "profileLink": "https://infopark.in/companies-profile/gewan-info-tech-solutions-india-pvt-ltd"
+    },
+    {
+      "name": "GIS AXIOM Pvt. Ltd.",
+      "website": "www.gisaxiom.com",
+      "phone": "+91 81380 17386, 9995917386",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/457gisaxiom_logo.jpg",
+      "jobLink": "https://infopark.in/jobs/280",
+      "profileLink": "https://infopark.in/companies-profile/gis-axiom-pvt-ltd"
+    },
+    {
+      "name": "Gizmeon Technologies Private Limited",
+      "website": "www.gizmeon.com",
+      "phone": "+91 9645833111",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/548Gizmeon Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/371",
+      "profileLink": "https://infopark.in/companies-profile/gizmeon-technologies-private-limited"
+    },
+    {
+      "name": "Glitz IT Solutions",
+      "website": "https://glitzitsolutions.com",
+      "phone": "+91 480 2734 544",
+      "domains": [
+        ".Net",
+        "AI",
+        "Data Science & Analytics",
+        "Enterprise Solutions",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/110glitz_logo.png",
+      "jobLink": "https://infopark.in/jobs/47",
+      "profileLink": "https://infopark.in/companies-profile/glitz-it-solutions"
+    },
+    {
+      "name": "Global Infonet Inc",
+      "website": "www.global-infonet.com",
+      "phone": "9633138880",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/65global-Logo.png",
+      "jobLink": "https://infopark.in/jobs/28",
+      "profileLink": "https://infopark.in/companies-profile/global-infonet-inc"
+    },
+    {
+      "name": "Global Surf IT Pvt Ltd",
+      "website": "https://www.globalsurf.ae/ & https://www.gs-it.ae/",
+      "phone": "7012605646",
+      "domains": [
+        "Digital Marketing & Content Services",
+        "IT Consulting & Managed Services",
+        "Networking & IT Infrastructure",
+        "UI/UX Design & Development",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/598Global Surf Cochi logo.jpg",
+      "jobLink": "https://infopark.in/jobs/421",
+      "profileLink": "https://infopark.in/companies-profile/global-surf-it-pvt-ltd"
+    },
+    {
+      "name": "GRAMPRO BUSINESS SERVICES PVT. LTD",
+      "website": "www.gramproindia.com",
+      "phone": "+91 8714621795",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/525GBS LOGO.jpeg",
+      "jobLink": "https://infopark.in/jobs/348",
+      "profileLink": "https://infopark.in/companies-profile/grampro-business-services-pvt-ltd"
+    },
+    {
+      "name": "Grapelime Innovations Private Limited.",
+      "website": "www.grapelime.in",
+      "phone": "+91 484 401 1758",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/473grapelime-logo-M.png",
+      "jobLink": "https://infopark.in/jobs/296",
+      "profileLink": "https://infopark.in/companies-profile/grapelime-innovations-private-limited"
+    },
+    {
+      "name": "Gravity Business Process Private Limited",
+      "website": "gravity-bp.com",
+      "phone": "+91 480 2080797",
+      "domains": [
+        "Finance & Accounting Services",
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Gravity_Business_Process_Private_Limited-1781867666.png",
+      "jobLink": "https://infopark.in/jobs/538",
+      "profileLink": "https://infopark.in/companies-profile/gravity-business-process-private-limited"
+    },
+    {
+      "name": "Greenworld International Enterprise  Private Limited",
+      "website": "www.greenworldin.in",
+      "phone": "+91 9947407002",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/628green world international.png",
+      "jobLink": "https://infopark.in/jobs/451",
+      "profileLink": "https://infopark.in/companies-profile/greenworld-international-enterprise-private-limited"
+    },
+    {
+      "name": "Grehasoft",
+      "website": "grehasoft.com",
+      "phone": "+91 8921540183",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Grehasoft-1749622079.jpg",
+      "jobLink": "https://infopark.in/jobs/487",
+      "profileLink": "https://infopark.in/companies-profile/grehasoft"
+    },
+    {
+      "name": "HashRoot Technologies Pvt Ltd",
+      "website": "www.hashroot.com",
+      "phone": "+91 484 404 1616",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/161HashRoot.png",
+      "jobLink": "https://infopark.in/jobs/61",
+      "profileLink": "https://infopark.in/companies-profile/hashroot-technologies-pvt-ltd"
+    },
+    {
+      "name": "Hatio Innovations Private Limited",
+      "website": "hatio.in",
+      "phone": "+91 8606434912",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/441logov3.png",
+      "jobLink": "https://infopark.in/jobs/264",
+      "profileLink": "https://infopark.in/companies-profile/hatio-innovations-private-limited"
+    },
+    {
+      "name": "Heidelsoft Technologies Private Limited",
+      "website": "www.heidelsoft.com",
+      "phone": "0484-2971190",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/313rsz_heidelsoft_logo_jpeg.jpg",
+      "jobLink": "https://infopark.in/jobs/146",
+      "profileLink": "https://infopark.in/companies-profile/heidelsoft-technologies-private-limited"
+    },
+    {
+      "name": "HH Back Office Services Pvt Ltd",
+      "website": "www.hhbos.com",
+      "phone": "0484-6715400",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/521Logo- HH Back Office Services.jpeg",
+      "jobLink": "https://infopark.in/jobs/344",
+      "profileLink": "https://infopark.in/companies-profile/hh-back-office-services-pvt-ltd"
+    },
+    {
+      "name": "Hotpack Global",
+      "website": "www.hotpackglobal.com",
+      "phone": "9895677424",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/526Hotpack logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/349",
+      "profileLink": "https://infopark.in/companies-profile/hotpack-global"
+    },
+    {
+      "name": "HTIC Global",
+      "website": "www.hticglobal.com",
+      "phone": "0484 4042400",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/365htic-logo 267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/194",
+      "profileLink": "https://infopark.in/companies-profile/htic-global"
+    },
+    {
+      "name": "Hubbell Burndy India",
+      "website": null,
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/173HBI_Ver_04.jpg (250x175).jpg",
+      "jobLink": "https://infopark.in/jobs/67",
+      "profileLink": "https://infopark.in/companies-profile/hubbell-burndy-india"
+    },
+    {
+      "name": "IBS Software",
+      "website": "www.ibsplc.com",
+      "phone": "04847193700",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/606IBS_Software_logo.jpg",
+      "jobLink": "https://infopark.in/jobs/429",
+      "profileLink": "https://infopark.in/companies-profile/ibs-software"
+    },
+    {
+      "name": "iCodeBees Private Limited",
+      "website": "www.icodebees.com",
+      "phone": "ph. - 98477 32355",
+      "domains": [
+        "Software Development",
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/627ICODEBEES LOGO.png",
+      "jobLink": "https://infopark.in/jobs/450",
+      "profileLink": "https://infopark.in/companies-profile/icodebees-private-limited"
+    },
+    {
+      "name": "iDatalytics Pvt. Ltd.",
+      "website": "www.idatalytics.com",
+      "phone": "9447034712",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/219idatalytics.png",
+      "jobLink": "https://infopark.in/jobs/91",
+      "profileLink": "https://infopark.in/companies-profile/idatalytics-pvt-ltd"
+    },
+    {
+      "name": "IdeaGCS Private Limited",
+      "website": "ideagcs.com",
+      "phone": "+91 9746126217",
+      "domains": [
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/IdeaGCS_Private_Limited-1749623068.png",
+      "jobLink": "https://infopark.in/jobs/488",
+      "profileLink": "https://infopark.in/companies-profile/ideagcs-private-limited"
+    },
+    {
+      "name": "IdealMG Educare LLP",
+      "website": "mgtuition.com",
+      "phone": "8086469111",
+      "domains": [
+        "EdTech"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/IdealMG_Educare_LLP-1786341449.png",
+      "jobLink": "https://infopark.in/jobs/543",
+      "profileLink": "https://infopark.in/companies-profile/idealmg-educare-llp"
+    },
+    {
+      "name": "iKSANA Engineering & Management Consultants",
+      "website": "www.iksana.tech",
+      "phone": "+91 94000 96396",
+      "domains": [
+        "BIM (Building Information Modeling) Solutions"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/iKSANA_Engineering_&_Management_Consultants-1786706573.jpg",
+      "jobLink": "https://infopark.in/jobs/545",
+      "profileLink": "https://infopark.in/companies-profile/iksana-engineering-management-consultants"
+    },
+    {
+      "name": "iLeaf Solutions Pvt Ltd.",
+      "website": "www.ileafsolutions.com",
+      "phone": "+91-9746226403",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/159logo-ileaf-small.png",
+      "jobLink": "https://infopark.in/jobs/59",
+      "profileLink": "https://infopark.in/companies-profile/ileaf-solutions-pvt-ltd"
+    },
+    {
+      "name": "Impaqtive Technologies India Pvt Ltd",
+      "website": "www.impaqtive.com",
+      "phone": "+91-9895633744",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/569Impaqtive-Logo.png",
+      "jobLink": "https://infopark.in/jobs/392",
+      "profileLink": "https://infopark.in/companies-profile/impaqtive-technologies-india-pvt-ltd"
+    },
+    {
+      "name": "In-Tech Group India Private Limited",
+      "website": "www.in-tech.com",
+      "phone": "+91 7907673191",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/5745. in-tech_logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/397",
+      "profileLink": "https://infopark.in/companies-profile/in-tech-group-india-private-limited"
+    },
+    {
+      "name": "InApp Information Technologies India Pvt Ltd",
+      "website": "www.inapp.com",
+      "phone": "+91 471 277 1800",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/506InApp_Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/329",
+      "profileLink": "https://infopark.in/companies-profile/inapp-information-technologies-india-pvt-ltd"
+    },
+    {
+      "name": "Incede Technologies Pvt Ltd",
+      "website": "www.incedetech.ai",
+      "phone": "0484 2981 655",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/636Incede_Logo.png",
+      "jobLink": "https://infopark.in/jobs/459",
+      "profileLink": "https://infopark.in/companies-profile/incede-technologies-pvt-ltd"
+    },
+    {
+      "name": "Indian Institute of Management - Kozhikode",
+      "website": "www.iimk.ac.in",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/189Monogram iimk.jpg",
+      "jobLink": "https://infopark.in/jobs/72",
+      "profileLink": "https://infopark.in/companies-profile/indian-institute-of-management-kozhikode"
+    },
+    {
+      "name": "IndustryApps Technologies Pvt Ltd",
+      "website": "www.industryapps.net",
+      "phone": "+91 99462 60111",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/IndustryApps_Technologies_Pvt_Ltd-1741611757.png",
+      "jobLink": "https://infopark.in/jobs/474",
+      "profileLink": "https://infopark.in/companies-profile/industryapps-technologies-pvt-ltd"
+    },
+    {
+      "name": "InerG Software Innovations Pvt.Ltd.",
+      "website": "www.inerg.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/352thumbnail-inerg.png",
+      "jobLink": "https://infopark.in/jobs/181",
+      "profileLink": "https://infopark.in/companies-profile/inerg-software-innovations-pvt-ltd"
+    },
+    {
+      "name": "Infintor Solutions LLP",
+      "website": "www.infintor.com",
+      "phone": "+919422799989",
+      "domains": [
+        "ERP",
+        "Enterprise Solutions",
+        "Artificial Intelligence (AI) / Machine Learning (ML)",
+        "Data Science & Analytics",
+        "Digital Trasformation Consulting"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Infintor_Solutions_LLP-1739545147.png",
+      "jobLink": "https://infopark.in/jobs/380",
+      "profileLink": "https://infopark.in/companies-profile/infintor-solutions-llp"
+    },
+    {
+      "name": "INFOCYLANZ PVT. LTD.",
+      "website": "www.infocylanz.com",
+      "phone": "8921032682",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/493INFOCYLANZ-LOGO1.jpg",
+      "jobLink": "https://infopark.in/jobs/316",
+      "profileLink": "https://infopark.in/companies-profile/infocylanz-pvt-ltd"
+    },
+    {
+      "name": "Infosmart Technologies Private Limited",
+      "website": "www.infosmart-technologies.com",
+      "phone": "+91 99468 05010",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/556Infosmart_Logo.png",
+      "jobLink": "https://infopark.in/jobs/379",
+      "profileLink": "https://infopark.in/companies-profile/infosmart-technologies-private-limited"
+    },
+    {
+      "name": "Innovature Software Labs (P) Ltd",
+      "website": "innovature.ai",
+      "phone": "0484 - 4038120",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/361innovature-logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/190",
+      "profileLink": "https://infopark.in/companies-profile/innovature-software-labs-p-ltd"
+    },
+    {
+      "name": "Inntot Technologies Private Limited",
+      "website": "www.inntot.com",
+      "phone": "+91- 484 298 5898",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/288rsz_1inntot_logo.jpg",
+      "jobLink": "https://infopark.in/jobs/126",
+      "profileLink": "https://infopark.in/companies-profile/inntot-technologies-private-limited"
+    },
+    {
+      "name": "Inspired Software Development (India) LLP",
+      "website": "www.inseinc.com",
+      "phone": "+91-9995229371",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/527Inspired_logo.png",
+      "jobLink": "https://infopark.in/jobs/350",
+      "profileLink": "https://infopark.in/companies-profile/inspired-software-development-india-llp"
+    },
+    {
+      "name": "Inspirisys Solutions Limited",
+      "website": "www.inspirisys.com",
+      "phone": "0484 - 3343403/3343404",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/331logo267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/163",
+      "profileLink": "https://infopark.in/companies-profile/inspirisys-solutions-limited"
+    },
+    {
+      "name": "Inspite Technologies Pvt.Ltd",
+      "website": "www.inspitetech.com",
+      "phone": "8714153735",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/619inspite-logo.png",
+      "jobLink": "https://infopark.in/jobs/442",
+      "profileLink": "https://infopark.in/companies-profile/inspite-technologies-pvt-ltd"
+    },
+    {
+      "name": "Intbrains Private Limited",
+      "website": "www.intbrains.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/550Logo- Intbrains.jpeg",
+      "jobLink": "https://infopark.in/jobs/373",
+      "profileLink": "https://infopark.in/companies-profile/intbrains-private-limited"
+    },
+    {
+      "name": "Internland Technology Services Private Limited",
+      "website": "www.interlandtech.com",
+      "phone": "7012460522",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/508Interland_Logo-01.jpg",
+      "jobLink": "https://infopark.in/jobs/331",
+      "profileLink": "https://infopark.in/companies-profile/internland-technology-services-private-limited"
+    },
+    {
+      "name": "iWEX Infomatics",
+      "website": "iwex.in",
+      "phone": "+919744783338",
+      "domains": [
+        "Robotics & Automation",
+        "IT Consulting & Managed Services",
+        "Enterprise Solutions",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/iWEX_Infomatics-1765810579.png",
+      "jobLink": "https://infopark.in/jobs/521",
+      "profileLink": "https://infopark.in/companies-profile/iwex-infomatics"
+    },
+    {
+      "name": "Jachoos Technologies Private Limited",
+      "website": "www.jachoos.com",
+      "phone": "+9181290 05574",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/540JachOOs_Logo.png",
+      "jobLink": "https://infopark.in/jobs/363",
+      "profileLink": "https://infopark.in/companies-profile/jachoos-technologies-private-limited"
+    },
+    {
+      "name": "JK Lucent Pvt Ltd",
+      "website": "www.jklucent.com.au",
+      "phone": "+91 480 208 1883",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/592JKLucent_Logo.png",
+      "jobLink": "https://infopark.in/jobs/415",
+      "profileLink": "https://infopark.in/companies-profile/jk-lucent-pvt-ltd"
+    },
+    {
+      "name": "Jobin & Jismi Pvt. Ltd.",
+      "website": "www.jobinandjismi.com",
+      "phone": "7034499822",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/581JobinJIsmi-Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/404",
+      "profileLink": "https://infopark.in/companies-profile/jobin-jismi-pvt-ltd"
+    },
+    {
+      "name": "JohnTuringWatson Software Solutions Pvt Ltd",
+      "website": "johnturingwatson.ai",
+      "phone": "9188933408",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development",
+        "Cybersecurity",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/JohnTuringWatson_Software_Solutions_Pvt_Ltd-1760079034.jpg",
+      "jobLink": "https://infopark.in/jobs/503",
+      "profileLink": "https://infopark.in/companies-profile/johnturingwatson-software-solutions-pvt-ltd"
+    },
+    {
+      "name": "JTSi Technologies India Private Limited",
+      "website": "www.jtsiindia.com",
+      "phone": "0484 - 4070368",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/147jtsi_logo.jpg",
+      "jobLink": "https://infopark.in/jobs/55",
+      "profileLink": "https://infopark.in/companies-profile/jtsi-technologies-india-private-limited"
+    },
+    {
+      "name": "Kakapo Systems India Private Limited",
+      "website": "www.kakaposystems.com/contact-us",
+      "phone": "+91 9946864488",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/542Kakapo_Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/365",
+      "profileLink": "https://infopark.in/companies-profile/kakapo-systems-india-private-limited"
+    },
+    {
+      "name": "Katzion Technology Solutions LLP",
+      "website": "www.katzion.com",
+      "phone": "0484 4858680",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/351katzion-png-hq small 267150.jpg",
+      "jobLink": "https://infopark.in/jobs/180",
+      "profileLink": "https://infopark.in/companies-profile/katzion-technology-solutions-llp"
+    },
+    {
+      "name": "KL Koncepts Lab Media and IT Park",
+      "website": "www.konceptslab.com",
+      "phone": "8606119333",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/509KonceptsLab Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/332",
+      "profileLink": "https://infopark.in/companies-profile/kl-koncepts-lab-media-and-it-park"
+    },
+    {
+      "name": "KnowBe4 India Private Limited",
+      "website": "www.knowbe4.com",
+      "phone": "+1-727-748-4221",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/552KnowBe4 Full Logo.png",
+      "jobLink": "https://infopark.in/jobs/375",
+      "profileLink": "https://infopark.in/companies-profile/knowbe4-india-private-limited"
+    },
+    {
+      "name": "KOTT SOFTWARE PRIVATE LIMITED",
+      "website": "https://www.kottsoftware.com",
+      "phone": "0484- 2362860 / 2979898 / 2371741",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/310rsz_kott_logo.jpg",
+      "jobLink": "https://infopark.in/jobs/143",
+      "profileLink": "https://infopark.in/companies-profile/kott-software-private-limited"
+    },
+    {
+      "name": "Krythium Solutions Private Limited",
+      "website": "www.krythium.com",
+      "phone": "91 7511101166",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/448Krythium.png",
+      "jobLink": "https://infopark.in/jobs/271",
+      "profileLink": "https://infopark.in/companies-profile/krythium-solutions-private-limited"
+    },
+    {
+      "name": "Lanware Solutions",
+      "website": "www.lanwaresolutions.com",
+      "phone": "+91- 9778423737",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/385logo.png",
+      "jobLink": "https://infopark.in/jobs/211",
+      "profileLink": "https://infopark.in/companies-profile/lanware-solutions"
+    },
+    {
+      "name": "Linnk Outsource Solutions India Pvt Ltd",
+      "website": "www.linnk.com",
+      "phone": "+91 9778418989",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "Data Science & Analytics",
+        "Enterprise Solutions",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Linnk_Outsource_Solutions_India_Pvt_Ltd-1748416932.jpg",
+      "jobLink": "https://infopark.in/jobs/484",
+      "profileLink": "https://infopark.in/companies-profile/linnk-outsource-solutions-india-pvt-ltd"
+    },
+    {
+      "name": "LINXAS IT CONSULTING PRIVATE LIMITED",
+      "website": "www.linxas.com",
+      "phone": "+91-8301076022",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/533Linx-AS - Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/356",
+      "profileLink": "https://infopark.in/companies-profile/linxas-it-consulting-private-limited"
+    },
+    {
+      "name": "Lisbell Technologies Pvt Ltd",
+      "website": "Lisbell.com",
+      "phone": "9207700229",
+      "domains": [
+        "Data Science & Analytics",
+        "Cloud Computing",
+        "Cybersecurity",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Lisbell_Technologies_Pvt_Ltd-1786103441.png",
+      "jobLink": "https://infopark.in/jobs/542",
+      "profileLink": "https://infopark.in/companies-profile/lisbell-technologies-pvt-ltd"
+    },
+    {
+      "name": "LucidPlus Infotech Pvt Ltd",
+      "website": "www.lucidplus.com",
+      "phone": "0480 2731677",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/95LucidPlus_logo.png",
+      "jobLink": "https://infopark.in/jobs/41",
+      "profileLink": "https://infopark.in/companies-profile/lucidplus"
+    },
+    {
+      "name": "Luure.ai LLP",
+      "website": "www.luure.ai",
+      "phone": "0484-4867768",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/380luureai267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/206",
+      "profileLink": "https://infopark.in/companies-profile/luure-ai-llp"
+    },
+    {
+      "name": "Mantle Solutions Private Limited",
+      "website": "https://mantlesolutions.in",
+      "phone": "0484-6633333",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/338mantle_approved logo-267.jpg",
+      "jobLink": "https://infopark.in/jobs/170",
+      "profileLink": "https://infopark.in/companies-profile/mantle-solutions-private-limited"
+    },
+    {
+      "name": "Mantra IT Solutions",
+      "website": "https://mantraitsolutions.in/",
+      "phone": "9249087484",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/560logo mantra.jpeg",
+      "jobLink": "https://infopark.in/jobs/383",
+      "profileLink": "https://infopark.in/companies-profile/mantra-it-solutions"
+    },
+    {
+      "name": "MapleTech Space Pvt Ltd",
+      "website": "mapletechspace.com",
+      "phone": "7559923436",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/469maple_logo.png",
+      "jobLink": "https://infopark.in/jobs/292",
+      "profileLink": "https://infopark.in/companies-profile/mapletech-space-pvt-ltd"
+    },
+    {
+      "name": "MarketBytes WebWorks Private Limited",
+      "website": "www.marketbytes.in",
+      "phone": "+91 88918 27272",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/637MarketBytes_Logo.png",
+      "jobLink": "https://infopark.in/jobs/460",
+      "profileLink": "https://infopark.in/companies-profile/marketbytes-webworks-private-limited"
+    },
+    {
+      "name": "MARLABS SOFTWARE",
+      "website": "www.marlabs.com",
+      "phone": "91 0484 6062885, 6062886",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/198marlabslogo.png",
+      "jobLink": "https://infopark.in/jobs/80",
+      "profileLink": "https://infopark.in/companies-profile/marlabs-software"
+    },
+    {
+      "name": "Mashuptech",
+      "website": "mashuptech.in",
+      "phone": "+91 4843514093, +91 8089612448, +91 6282589058",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "Software Development",
+        "Digital Marketing & Content Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/537Mashup_Logo.png",
+      "jobLink": "https://infopark.in/jobs/360",
+      "profileLink": "https://infopark.in/companies-profile/mashuptech"
+    },
+    {
+      "name": "Maxxion Systems Private Limited",
+      "website": "www.maxxion.com",
+      "phone": "+918547906576",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/609MAXXION_LOGO.jpeg",
+      "jobLink": "https://infopark.in/jobs/432",
+      "profileLink": "https://infopark.in/companies-profile/maxxion-systems-private-limited"
+    },
+    {
+      "name": "McFadyen Digital",
+      "website": "www.mcfadyen.com",
+      "phone": "9495662507",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/249image017.png",
+      "jobLink": "https://infopark.in/jobs/102",
+      "profileLink": "https://infopark.in/companies-profile/mcfadyen-digital"
+    },
+    {
+      "name": "Media Systems India",
+      "website": "www.msisoft.in",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/70Media_logo.png",
+      "jobLink": "https://infopark.in/jobs/30",
+      "profileLink": "https://infopark.in/companies-profile/media-systems-india"
+    },
+    {
+      "name": "Merabt Technologies Private Limited",
+      "website": "www.merabt.com",
+      "phone": "+91-7907092564",
+      "domains": [
+        "ERP",
+        "Mobile Application Development",
+        "Digital Marketing & Content Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/573merabt logo.jpg",
+      "jobLink": "https://infopark.in/jobs/396",
+      "profileLink": "https://infopark.in/companies-profile/merabt-technologies-private-limited"
+    },
+    {
+      "name": "MERP Systems Private Limited",
+      "website": "www.merpsystems.com",
+      "phone": "+918547117240",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/512MERP LOGO.jpeg",
+      "jobLink": "https://infopark.in/jobs/335",
+      "profileLink": "https://infopark.in/companies-profile/merp-systems-private-limited"
+    },
+    {
+      "name": "Metclouds Technologies Pvt Ltd",
+      "website": "metclouds.com",
+      "phone": "0484-4030103",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "Cloud Computing",
+        "Enterprise Solutions",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/626metclouds logo.png",
+      "jobLink": "https://infopark.in/jobs/449",
+      "profileLink": "https://infopark.in/companies-profile/metclouds-technologies-pvt-ltd"
+    },
+    {
+      "name": "Milestone Technologies",
+      "website": "milestone.tech",
+      "phone": "91-484-4060800",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/62Milestone_Logo.png",
+      "jobLink": "https://infopark.in/jobs/25",
+      "profileLink": "https://infopark.in/companies-profile/milestone-technologies"
+    },
+    {
+      "name": "Millennium InfoLogic",
+      "website": "www.millinfo.net",
+      "phone": "+91 484 4856688",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/440Infologic-PNG.png",
+      "jobLink": "https://infopark.in/jobs/263",
+      "profileLink": "https://infopark.in/companies-profile/millennium-infologic"
+    },
+    {
+      "name": "Mindcurv Technology Solutions Pvt. Ltd.",
+      "website": "www.mindcurv.com",
+      "phone": "0484 2100164",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/271mindcurve.jpg",
+      "jobLink": "https://infopark.in/jobs/114",
+      "profileLink": "https://infopark.in/companies-profile/mindcurv-technology-solutions-pvt-ltd"
+    },
+    {
+      "name": "MindLabs Consultancy Services LLP",
+      "website": "www.mindlabssolutions.com",
+      "phone": "0484 4046900",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/334Mindlabs-3x2_Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/166",
+      "profileLink": "https://infopark.in/companies-profile/mindlabs-consultancy-services-llp"
+    },
+    {
+      "name": "MindLabs Systems Pvt Ltd",
+      "website": "mindlabssys.com",
+      "phone": "9656056789",
+      "domains": [
+        "Networking & IT Infrastructure",
+        "IT Consulting & Managed Services",
+        "Software Development",
+        "Digital Marketing & Content Services",
+        "UI/UX Design & Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/MindLabs_Systems_Pvt_Ltd-1758791397.png",
+      "jobLink": "https://infopark.in/jobs/501",
+      "profileLink": "https://infopark.in/companies-profile/mindlabs-systems-pvt-ltd"
+    },
+    {
+      "name": "Mitsogo",
+      "website": "www.mitsogo.com",
+      "phone": "8921244876",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/317rsz_mitsogo-logo_1.png",
+      "jobLink": "https://infopark.in/jobs/150",
+      "profileLink": "https://infopark.in/companies-profile/mitsogo"
+    },
+    {
+      "name": "mitz AI Minds Pvt Ltd",
+      "website": "www.mitz.ai",
+      "phone": "9656730556",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/570mitz-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/393",
+      "profileLink": "https://infopark.in/companies-profile/mitz-ai-minds-pvt-ltd"
+    },
+    {
+      "name": "Mozilor Technologies Pvt. Ltd.",
+      "website": "www.mozilor.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/510Logo for website (1).png",
+      "jobLink": "https://infopark.in/jobs/333",
+      "profileLink": "https://infopark.in/companies-profile/mozilor-technologies-pvt-ltd"
+    },
+    {
+      "name": "NAS Infosolutions Pvt Ltd",
+      "website": "www.nasinfosolutions.com",
+      "phone": "04802998676",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/455NAS-Logo2.png",
+      "jobLink": "https://infopark.in/jobs/278",
+      "profileLink": "https://infopark.in/companies-profile/nas-infosolutions-pvt-ltd"
+    },
+    {
+      "name": "Navicater Solutions India Pvt Ltd",
+      "website": "www.navicater.com",
+      "phone": "+91 9446 88 33 77, +91 8289 88 33 77",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Navicater_Solutions_India_Pvt_Ltd-1739250901.png",
+      "jobLink": "https://infopark.in/jobs/470",
+      "profileLink": "https://infopark.in/companies-profile/navicater-solutions-india-pvt-ltd"
+    },
+    {
+      "name": "NDimensionZ Solutions Pvt.Ltd.",
+      "website": "www.ndimensionz.com",
+      "phone": "0484 - 6689999",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/383ndz267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/209",
+      "profileLink": "https://infopark.in/companies-profile/ndimensionz-solutions-pvt-ltd"
+    },
+    {
+      "name": "Neem Info Solutions Pvt. Ltd.",
+      "website": "www.neemsoftware.com",
+      "phone": "8281155932",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Neem-Logo-Small.jpg",
+      "jobLink": "https://infopark.in/jobs/225",
+      "profileLink": "https://infopark.in/companies-profile/neem-info-solutions-pvt-ltd"
+    },
+    {
+      "name": "Neork Technologies",
+      "website": "www.neork.com",
+      "phone": "+91 99958 03233",
+      "domains": [
+        "Robotics & Automation",
+        "Internet of Things (IoT)",
+        "Enterprise Solutions",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Neork_Technologies-1752643141.jpg",
+      "jobLink": "https://infopark.in/jobs/494",
+      "profileLink": "https://infopark.in/companies-profile/neork-technologies"
+    },
+    {
+      "name": "Nesa Software Pvt Ltd",
+      "website": "www.nesasoftware.com",
+      "phone": "+91 7593 833663",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "Internet of Things (IoT)",
+        "Data Science & Analytics",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Nesa_Software_Pvt_Ltd-1772774322.png",
+      "jobLink": "https://infopark.in/jobs/530",
+      "profileLink": "https://infopark.in/companies-profile/nesa-software-pvt-ltd"
+    },
+    {
+      "name": "Nesote Technologies Pvt Ltd",
+      "website": "www.nesote.com",
+      "phone": "04842987111",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/217Nesote logo - infopark.png",
+      "jobLink": "https://infopark.in/jobs/89",
+      "profileLink": "https://infopark.in/companies-profile/nesote-technologies-pvt-ltd"
+    },
+    {
+      "name": "Nestsoft TechnoMaster PVT LTD",
+      "website": "www.nestsoft.com",
+      "phone": "+91 9895490866",
+      "domains": [
+        "Data Science & Analytics",
+        "Artificial Intelligence (AI) / Machine Learning (ML)",
+        "Digital Marketing & Content Services",
+        "UI/UX Design & Development",
+        "Internet of Things (IoT)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/616Nestsoft-logo.png",
+      "jobLink": "https://infopark.in/jobs/439",
+      "profileLink": "https://infopark.in/companies-profile/nestsoft-technomaster-pvt-ltd"
+    },
+    {
+      "name": "Netlyft Technologies Pvt Ltd",
+      "website": "www.netlyft.com",
+      "phone": "+91 9207325275",
+      "domains": [
+        "Digital Marketing & Content Services",
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development",
+        "Internet of Things (IoT)",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Netlyft_Technologies_Pvt_Ltd-1763446481.png",
+      "jobLink": "https://infopark.in/jobs/518",
+      "profileLink": "https://infopark.in/companies-profile/netlyft-technologies-pvt-ltd"
+    },
+    {
+      "name": "Netsentries Infosec Solutions Pvt.Ltd.",
+      "website": "www.netsentries.com",
+      "phone": "+91-484-4148299",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/323rsz_net-logo-2-3.png",
+      "jobLink": "https://infopark.in/jobs/156",
+      "profileLink": "https://infopark.in/companies-profile/netsentries-infosec-solutions-pvt-ltd"
+    },
+    {
+      "name": "NewAgeSys Solutions (P) Ltd.",
+      "website": "www.newagesysindia.com",
+      "phone": "0484-2983032 / 2983033",
+      "domains": [
+        "Mobile Application Development",
+        "IT Consulting & Managed Services",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)",
+        "Enterprise Solutions"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/262newagesys.png",
+      "jobLink": "https://infopark.in/jobs/109",
+      "profileLink": "https://infopark.in/companies-profile/newagesys-solutions-p-ltd"
+    },
+    {
+      "name": "Next Apps",
+      "website": "www.nextapps.in",
+      "phone": "9916940449",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/next-apps.jpg",
+      "jobLink": "https://infopark.in/jobs/226",
+      "profileLink": "https://infopark.in/companies-profile/next-apps"
+    },
+    {
+      "name": "Niaway Technologies Pvt Ltd",
+      "website": "www.niaway.com",
+      "phone": "+91 6238833983",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/585niaway-logo.png",
+      "jobLink": "https://infopark.in/jobs/408",
+      "profileLink": "https://infopark.in/companies-profile/niaway-technologies-pvt-ltd"
+    },
+    {
+      "name": "Niche Techies",
+      "website": "www.nichetechies.com",
+      "phone": "9995333078",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "Internet of Things (IoT)",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Niche_Techies-1770876577.png",
+      "jobLink": "https://infopark.in/jobs/527",
+      "profileLink": "https://infopark.in/companies-profile/niche-techies"
+    },
+    {
+      "name": "Noa Infosolutions LLP",
+      "website": "www.noainfosolutions.com",
+      "phone": "9846002792",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/347NOA infosolution - 267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/176",
+      "profileLink": "https://infopark.in/companies-profile/noa-infosolutions-llp"
+    },
+    {
+      "name": "NOMD Technologies",
+      "website": "www.nomdindia.com",
+      "phone": "85907 17735",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/487NOMDLogoNEW.png",
+      "jobLink": "https://infopark.in/jobs/310",
+      "profileLink": "https://infopark.in/companies-profile/nomd-technologies"
+    },
+    {
+      "name": "Nuvento Systems Private Limited",
+      "website": "www.nuvento.com",
+      "phone": "0484 4066070",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/153Nuvento-Logo-W230_infopark.png",
+      "jobLink": "https://infopark.in/jobs/58",
+      "profileLink": "https://infopark.in/companies-profile/nuvento-systems-private-limited"
+    },
+    {
+      "name": "Nymbl",
+      "website": "www.benymbl.co",
+      "phone": "91 77366 98555",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/500Checkout.jpg",
+      "jobLink": "https://infopark.in/jobs/323",
+      "profileLink": "https://infopark.in/companies-profile/nymbl"
+    },
+    {
+      "name": "Obidos Technologies (P) Ltd",
+      "website": "www.obidostech.com",
+      "phone": "0478 2553300",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/495obidos.jpg",
+      "jobLink": "https://infopark.in/jobs/318",
+      "profileLink": "https://infopark.in/companies-profile/obidos-technologies-p-ltd"
+    },
+    {
+      "name": "Obvious AI Technology Pvt Ltd",
+      "website": "www.obvs.ai",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/632ObviousLogo.png",
+      "jobLink": "https://infopark.in/jobs/455",
+      "profileLink": "https://infopark.in/companies-profile/obvious-ai-technology-pvt-ltd"
+    },
+    {
+      "name": "Offline Human Studios",
+      "website": "www.offlinehumanstudios.com",
+      "phone": "+91 9995479222",
+      "domains": [
+        "Game Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/638OfflineHumanStudios_Logo.png",
+      "jobLink": "https://infopark.in/jobs/461",
+      "profileLink": "https://infopark.in/companies-profile/offline-human-studios"
+    },
+    {
+      "name": "Onesoft Technologies LLP",
+      "website": "www.onesoftapps.com",
+      "phone": "+91-96567 07783",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/589onesoft-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/412",
+      "profileLink": "https://infopark.in/companies-profile/onesoft-technologies-llp"
+    },
+    {
+      "name": "Opshore Talent Solutions Pvt.Ltd.",
+      "website": "www.opshoretalentsolutions.com",
+      "phone": "9995205566",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/336OPSHORE-267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/168",
+      "profileLink": "https://infopark.in/companies-profile/opshore-talent-solutions-pvt-ltd"
+    },
+    {
+      "name": "Orestes Technologies Pvt Ltd",
+      "website": "www.orestestech.com",
+      "phone": "+918078206146",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/567Logo-Orestes.jpeg",
+      "jobLink": "https://infopark.in/jobs/390",
+      "profileLink": "https://infopark.in/companies-profile/orestes-technologies-pvt-ltd"
+    },
+    {
+      "name": "Origent Technologies",
+      "website": "https://www.origent.in",
+      "phone": "08891113129",
+      "domains": [
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Origent_Technologies-1761733190.jpg",
+      "jobLink": "https://infopark.in/jobs/506",
+      "profileLink": "https://infopark.in/companies-profile/origent-technologies"
+    },
+    {
+      "name": "Orion India Systems Pvt. Ltd.",
+      "website": "www.orioninc.com",
+      "phone": "+91 484 6616100",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/orion.jpg",
+      "jobLink": "https://infopark.in/jobs/27",
+      "profileLink": "https://infopark.in/companies-profile/orion-india-systems-pvt-ltd"
+    },
+    {
+      "name": "Ormeon IT Consulting Pvt Ltd",
+      "website": "ormeon.com",
+      "phone": "+91 94472 14688",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/426ormeonitconsulting.png",
+      "jobLink": "https://infopark.in/jobs/249",
+      "profileLink": "https://infopark.in/companies-profile/ormeon-it-consulting-pvt-ltd"
+    },
+    {
+      "name": "ORTHOFX PRIVATE LIMITED",
+      "website": "www.orthofx.com",
+      "phone": "+91 8848317153",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/531OrthoFX_Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/354",
+      "profileLink": "https://infopark.in/companies-profile/orthofx-private-limited"
+    },
+    {
+      "name": "Outsource Partners International",
+      "website": "www.opiglobal.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/opi_logo.gif",
+      "jobLink": "https://infopark.in/jobs/12",
+      "profileLink": "https://infopark.in/companies-profile/outsource-partners-international"
+    },
+    {
+      "name": "Overbrook Technology Services (P) Ltd",
+      "website": "www.ots.work",
+      "phone": "0484-2883801",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/273rsz_otsmainlogo.jpg",
+      "jobLink": "https://infopark.in/jobs/116",
+      "profileLink": "https://infopark.in/companies-profile/overbrook-technology-services-p-ltd"
+    },
+    {
+      "name": "Pagematics India Pvt. Ltd.",
+      "website": "https://www.pagematics.com",
+      "phone": "+91 8848178114",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/644Pagematics_logo.png",
+      "jobLink": "https://infopark.in/jobs/467",
+      "profileLink": "https://infopark.in/companies-profile/pagematics-india-pvt-ltd"
+    },
+    {
+      "name": "PanashiFZCO Technology Solution Private Limited",
+      "website": "panashi.ae",
+      "phone": "04842915045",
+      "domains": [
+        "Robotics & Automation",
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/PanashiFZCO_Technology_Solution_Private_Limited-1771492210.png",
+      "jobLink": "https://infopark.in/jobs/528",
+      "profileLink": "https://infopark.in/companies-profile/panashifzco-technology-solution-private-limited"
+    },
+    {
+      "name": "Paoyaila Animation Studios LLP",
+      "website": "www.paoyaila.com",
+      "phone": "+91 9495463841, +919400197544",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Paoyaila_Animation_Studios_LLP-1741675103.png",
+      "jobLink": "https://infopark.in/jobs/476",
+      "profileLink": "https://infopark.in/companies-profile/paoyaila-animation-studios-llp"
+    },
+    {
+      "name": "Paradigm IT Private Limited",
+      "website": "https://paradigm-structural.com/",
+      "phone": "+91 8086257998",
+      "domains": [
+        "Structural & Sustainability",
+        "BIM (Building Information Modeling) Solutions"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/522paradigm logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/345",
+      "profileLink": "https://infopark.in/companies-profile/paradigm-it-private-limited"
+    },
+    {
+      "name": "PaulCart E Commerce Pvt. Ltd.",
+      "website": "www.wibserp.com",
+      "phone": "9995434111",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/479paulcart_logo.png",
+      "jobLink": "https://infopark.in/jobs/302",
+      "profileLink": "https://infopark.in/companies-profile/paulcart-e-commerce-pvt-ltd"
+    },
+    {
+      "name": "PCS India Private Limited",
+      "website": "pcsindia.online",
+      "phone": "+91 474-2970074",
+      "domains": [
+        "Back Office & Administrative Services",
+        "Enterprise Solutions",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/PCS_India_Private_Limited-1770720729.png",
+      "jobLink": "https://infopark.in/jobs/524",
+      "profileLink": "https://infopark.in/companies-profile/pcs-india-private-limited"
+    },
+    {
+      "name": "Pearlsoft Technologies LLP",
+      "website": "pearlsofttechnologies.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/578PearlSoft-Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/401",
+      "profileLink": "https://infopark.in/companies-profile/pearlsoft-technologies-llp"
+    },
+    {
+      "name": "Penguin Data Centre Pvt.Ltd.",
+      "website": "www.penguininc.com",
+      "phone": "+91-6238309752",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/340Penguin-267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/171",
+      "profileLink": "https://infopark.in/companies-profile/penguin-data-centre-pvt-ltd"
+    },
+    {
+      "name": "Phases India Technology Solutions Pvt Ltd.",
+      "website": "www.phases.io",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/558Phases_Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/381",
+      "profileLink": "https://infopark.in/companies-profile/phases-india-technology-solutions-pvt-ltd"
+    },
+    {
+      "name": "Pinetech IT Solutions P Ltd",
+      "website": "www.pinetech.in",
+      "phone": "8547426732",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/384pinetech.jpg",
+      "jobLink": "https://infopark.in/jobs/210",
+      "profileLink": "https://infopark.in/companies-profile/pinetech-it-solutions-p-ltd"
+    },
+    {
+      "name": "Pinmicro India Pvt.Ltd.",
+      "website": "pinmicro.com",
+      "phone": "+91 4844055675",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/425pinmicro.jpg",
+      "jobLink": "https://infopark.in/jobs/248",
+      "profileLink": "https://infopark.in/companies-profile/pinmicro-india-pvt-ltd"
+    },
+    {
+      "name": "PiServe Solutions Pvt Ltd",
+      "website": "www.piserve.com",
+      "phone": "+91-9895229562",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/577Blue logo.jpg",
+      "jobLink": "https://infopark.in/jobs/400",
+      "profileLink": "https://infopark.in/companies-profile/piserve-solutions-pvt-ltd"
+    },
+    {
+      "name": "PIT Solutions Private Limited",
+      "website": "www.pitsolutions.com/de-ch",
+      "phone": "04712700915",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/593pits logo.png",
+      "jobLink": "https://infopark.in/jobs/416",
+      "profileLink": "https://infopark.in/companies-profile/pit-solutions-private-limited"
+    },
+    {
+      "name": "Pixdynamics",
+      "website": "www.pixdynamics.com",
+      "phone": "+91 79944 31750",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/607Pixdynamics-logo.png",
+      "jobLink": "https://infopark.in/jobs/430",
+      "profileLink": "https://infopark.in/companies-profile/pixdynamics"
+    },
+    {
+      "name": "Planet Media India ( PMIN Agency Pvt.Ltd.)",
+      "website": "www.planetmedia.in",
+      "phone": "9778149518",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "Digital Marketing & Content Services",
+        "UI/UX Design & Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/443PM_Logo.png",
+      "jobLink": "https://infopark.in/jobs/266",
+      "profileLink": "https://infopark.in/companies-profile/planet-media-india-pmin-agency-pvt-ltd"
+    },
+    {
+      "name": "Portrave Solutions Pvt Ltd",
+      "website": "www.portrave.com",
+      "phone": "+91484 4070667",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/561portrave_logo.png",
+      "jobLink": "https://infopark.in/jobs/384",
+      "profileLink": "https://infopark.in/companies-profile/portrave-solutions-pvt-ltd"
+    },
+    {
+      "name": "Prevalent AI",
+      "website": "prevalent.ai",
+      "phone": "0484-4361111",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/381rh_267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/207",
+      "profileLink": "https://infopark.in/companies-profile/prevalent-ai"
+    },
+    {
+      "name": "PrimeCrown Technologies (P) Limited",
+      "website": "www.primecrown.com",
+      "phone": "+91-8547859999",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/511primecrown_550x.jpeg",
+      "jobLink": "https://infopark.in/jobs/334",
+      "profileLink": "https://infopark.in/companies-profile/primecrown-technologies-p-limited"
+    },
+    {
+      "name": "Privo TechCorp Private Limited",
+      "website": "privocorp.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/641Privo_Logo.png",
+      "jobLink": "https://infopark.in/jobs/464",
+      "profileLink": "https://infopark.in/companies-profile/privo-techcorp-private-limited"
+    },
+    {
+      "name": "Pueblo Shades Pvt.Ltd",
+      "website": "www.puebloshades.com",
+      "phone": "80752 45591",
+      "domains": [
+        "UI/UX Design & Development",
+        "Software Development",
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Pueblo_Shades_Pvt.Ltd-1742877934.png",
+      "jobLink": "https://infopark.in/jobs/409",
+      "profileLink": "https://infopark.in/companies-profile/pueblo-shades-pvt-ltd"
+    },
+    {
+      "name": "Pumex InfoTech Pvt Ltd",
+      "website": "www.pumexinfotech.com",
+      "phone": "0484-4016369",
+      "domains": [
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Pumex_InfoTech_Pvt_Ltd-1744094298.jpg",
+      "jobLink": "https://infopark.in/jobs/26",
+      "profileLink": "https://infopark.in/companies-profile/pumex-infotech-pvt-ltd"
+    },
+    {
+      "name": "QBurst Technologies",
+      "website": "www.qburst.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Qburst.jpg",
+      "jobLink": "https://infopark.in/jobs/35",
+      "profileLink": "https://infopark.in/companies-profile/qburst-technologies"
+    },
+    {
+      "name": "QC Verify Private Limited",
+      "website": "www.qcverify.com",
+      "phone": "0484 4020024",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/434QMiS logo.jpg",
+      "jobLink": "https://infopark.in/jobs/257",
+      "profileLink": "https://infopark.in/companies-profile/qc-verify-private-limited"
+    },
+    {
+      "name": "Quantum Acumen (QuAnHack Solutions)",
+      "website": "www.quanhack.com",
+      "phone": "8089427555",
+      "domains": [
+        "Cloud Computing",
+        "Enterprise Solutions",
+        "Cybersecurity",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Quantum_Acumen-1773049330.png",
+      "jobLink": "https://infopark.in/jobs/531",
+      "profileLink": "https://infopark.in/companies-profile/quantum-acumen-quanhack-solutions"
+    },
+    {
+      "name": "Qubeslab Technologies Private Limited",
+      "website": "qubeslab.com",
+      "phone": "9383401029",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/544Qubeslab-Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/367",
+      "profileLink": "https://infopark.in/companies-profile/qubeslab-technologies-private-limited"
+    },
+    {
+      "name": "Qubiqon Consulting India Private Limited",
+      "website": "www.qubiqon.io",
+      "phone": "91 9995222141",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "Data Science & Analytics",
+        "Cloud Computing",
+        "Enterprise Solutions",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Qubiqon_Consulting_India_Private_Limited-1752643990.png",
+      "jobLink": "https://infopark.in/jobs/493",
+      "profileLink": "https://infopark.in/companies-profile/qubiqon-consulting-india-private-limited"
+    },
+    {
+      "name": "Quest Global Engineering Services Pvt Ltd",
+      "website": "www.quest-global.com",
+      "phone": "7593823160",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/514Quest Global logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/337",
+      "profileLink": "https://infopark.in/companies-profile/quest-global-engineering-services-pvt-ltd"
+    },
+    {
+      "name": "Raintech Software Ltd",
+      "website": "raintechsoftware.com",
+      "phone": "+918078311945,  +91 8606093110",
+      "domains": [
+        "Networking & IT Infrastructure",
+        "Data Science & Analytics",
+        "Cybersecurity",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Raintech_Software_Ltd-1770788934.jpg",
+      "jobLink": "https://infopark.in/jobs/526",
+      "profileLink": "https://infopark.in/companies-profile/raintech-software-ltd"
+    },
+    {
+      "name": "Rainybits Technology Pvt Ltd",
+      "website": "www.rainybits.com",
+      "phone": "0484-4047033",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/343rainybits 257X150.jpg",
+      "jobLink": "https://infopark.in/jobs/174",
+      "profileLink": "https://infopark.in/companies-profile/rainybits-technology-pvt-ltd"
+    },
+    {
+      "name": "RedBlack Technologies Private Limited",
+      "website": "www.redblacksoftware.com",
+      "phone": "+919605623900",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/RedBlack_Technologies_Private_Limited-1785738401.png",
+      "jobLink": "https://infopark.in/jobs/456",
+      "profileLink": "https://infopark.in/companies-profile/redblack-technologies-private-limited"
+    },
+    {
+      "name": "Redux (Network Redux)",
+      "website": "www.redux.co",
+      "phone": "0484 2972794",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/network-redux_logo.jpg",
+      "jobLink": "https://infopark.in/jobs/216",
+      "profileLink": "https://infopark.in/companies-profile/redux-network-redux"
+    },
+    {
+      "name": "Regent Global Services (India) Pvt.Ltd.",
+      "website": "www.rgsin.com",
+      "phone": "0484 2982150",
+      "domains": [
+        "Digital Marketing & Content Services",
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development",
+        "Networking & IT Infrastructure",
+        "Data Science & Analytics"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/296rsz_3logo.jpg",
+      "jobLink": "https://infopark.in/jobs/130",
+      "profileLink": "https://infopark.in/companies-profile/regent-global-services-india-pvt-ltd"
+    },
+    {
+      "name": "Retyn Business Solution Pvt. Ltd.",
+      "website": "www.retyn.ai",
+      "phone": "+91 9037964001",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Retyn_Business_Solution_Pvt._Ltd.-1740483513.jpg",
+      "jobLink": "https://infopark.in/jobs/473",
+      "profileLink": "https://infopark.in/companies-profile/retyn-business-solution-pvt-ltd"
+    },
+    {
+      "name": "REXAV LLP",
+      "website": "www.rexavllp.com",
+      "phone": "+91 7994480220",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/579Rexav Logo 2023 copy.jpg",
+      "jobLink": "https://infopark.in/jobs/402",
+      "profileLink": "https://infopark.in/companies-profile/rexav-llp"
+    },
+    {
+      "name": "Rextech Studios",
+      "website": "www.rextechstudios.com",
+      "phone": "9562965493",
+      "domains": [
+        "Mobile Application Development",
+        "AR/VR Solutions & Immersive Technology",
+        "Metaverse Development & Virtual Experiences",
+        "Game Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Rextech_Studios-1769236877.png",
+      "jobLink": "https://infopark.in/jobs/522",
+      "profileLink": "https://infopark.in/companies-profile/rextech-studios"
+    },
+    {
+      "name": "RIOD LOGIC PRIVATE LIMITED",
+      "website": "www.riod.in",
+      "phone": "+91 8589874131",
+      "domains": [
+        "Internet of Things (IoT)",
+        "Cloud Computing",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/RIOD_LOGIC_PRIVATE_LIMITED-1751452988.png",
+      "jobLink": "https://infopark.in/jobs/491",
+      "profileLink": "https://infopark.in/companies-profile/riod-logic-private-limited"
+    },
+    {
+      "name": "Roberts Design Services",
+      "website": "www.rdsind.co",
+      "phone": "91 8139005188",
+      "domains": [
+        "BIM (Building Information Modeling) Solutions",
+        "MEP"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/392black _Logo_Units.png",
+      "jobLink": "https://infopark.in/jobs/218",
+      "profileLink": "https://infopark.in/companies-profile/roberts-design-services"
+    },
+    {
+      "name": "ROGERSOFT",
+      "website": "rogersoft.com",
+      "phone": "9995207676",
+      "domains": [
+        "UI/UX Design & Development",
+        "IT Consulting & Managed Services",
+        "Data Science & Analytics",
+        "Software Testing",
+        "Digital Marketing & Content Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/486ROGERSOFTlogo.png",
+      "jobLink": "https://infopark.in/jobs/309",
+      "profileLink": "https://infopark.in/companies-profile/rogersoft"
+    },
+    {
+      "name": "RUBY SEVEN STUDIOS",
+      "website": "www.rubyseven.in",
+      "phone": "04844059440",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/RUBY_SEVEN_STUDIOS-1758186547.png",
+      "jobLink": "https://infopark.in/jobs/79",
+      "profileLink": "https://infopark.in/companies-profile/ruby-seven-studios"
+    },
+    {
+      "name": "SaNDS Lab",
+      "website": "www.sandslab.com",
+      "phone": "+91 9895765626",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/91SaNDSLogo.jpg",
+      "jobLink": "https://infopark.in/jobs/39",
+      "profileLink": "https://infopark.in/companies-profile/sands-lab"
+    },
+    {
+      "name": "SayOne Technologies Pvt.Ltd.",
+      "website": "www.sayonetech.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/295rsz_sayone_logo_final.png",
+      "jobLink": "https://infopark.in/jobs/129",
+      "profileLink": "https://infopark.in/companies-profile/sayone-technologies-pvt-ltd"
+    },
+    {
+      "name": "SBL Knowledge Services Pvt Ltd",
+      "website": "www.sblcorp.com",
+      "phone": "98957 64867",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/76sbl_257x150.jpg",
+      "jobLink": "https://infopark.in/jobs/33",
+      "profileLink": "https://infopark.in/companies-profile/sbl-knowledge-services-pvt-ltd"
+    },
+    {
+      "name": "SE-Mentor Solutions",
+      "website": "www.sementor.com",
+      "phone": "7306021783",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development",
+        "Data Science & Analytics",
+        "Software Development",
+        "Software Testing"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/SE-Mentor_Solutions-1781867254.jpg",
+      "jobLink": "https://infopark.in/jobs/483",
+      "profileLink": "https://infopark.in/companies-profile/se-mentor-solutions"
+    },
+    {
+      "name": "Seeroo IT Solutions",
+      "website": "www.seeroo.com",
+      "phone": "+91 484 298 5660",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/534SEEROO_LOGO_2022L.jpeg",
+      "jobLink": "https://infopark.in/jobs/357",
+      "profileLink": "https://infopark.in/companies-profile/seeroo-it-solutions"
+    },
+    {
+      "name": "Seguro Technologies",
+      "website": "www.segurotechnologies.com",
+      "phone": "8078791340",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/seguro-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/234",
+      "profileLink": "https://infopark.in/companies-profile/seguro-technologies"
+    },
+    {
+      "name": "SEIDOR Opentrends",
+      "website": "www.opentrends.net",
+      "phone": "+91 480 2735022",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/143Seidor-opentrends_positivo-logo.png",
+      "jobLink": "https://infopark.in/jobs/53",
+      "profileLink": "https://infopark.in/companies-profile/seidor-opentrends"
+    },
+    {
+      "name": "Senscript Technologies Pvt Ltd",
+      "website": "www.senscript.ai",
+      "phone": "+91-9037122872",
+      "domains": [
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/524Senscript Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/347",
+      "profileLink": "https://infopark.in/companies-profile/senscript-technologies-pvt-ltd"
+    },
+    {
+      "name": "Servsys Technology Services India Pvt Ltd",
+      "website": "www.servsys.com",
+      "phone": "+91 80 8638 8637",
+      "domains": [
+        "Software Development",
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/300rsz_logo2.png",
+      "jobLink": "https://infopark.in/jobs/134",
+      "profileLink": "https://infopark.in/companies-profile/servsys-technology-services-india-pvt-ltd"
+    },
+    {
+      "name": "Silverbloom Technologies",
+      "website": "www.silverbloom.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/94logo.jpg",
+      "jobLink": "https://infopark.in/jobs/40",
+      "profileLink": "https://infopark.in/companies-profile/silverbloom-technologies"
+    },
+    {
+      "name": "Simelabs - An Astek Company",
+      "website": "www.simelabs.com",
+      "phone": "8590718392",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/555Simelabs Logo circle.jpeg",
+      "jobLink": "https://infopark.in/jobs/378",
+      "profileLink": "https://infopark.in/companies-profile/simelabs-an-astek-company"
+    },
+    {
+      "name": "Skybertech IT Innovation Pvt Ltd",
+      "website": "www.skybertech.com",
+      "phone": "+91 7592 888 111",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/614skybertech_logo.png",
+      "jobLink": "https://infopark.in/jobs/437",
+      "profileLink": "https://infopark.in/companies-profile/skybertech-it-innovation-pvt-ltd"
+    },
+    {
+      "name": "SMEC Automation Pvt Ltd",
+      "website": "www.smeclabs.com",
+      "phone": "9656227714",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/481smec logo.jpg",
+      "jobLink": "https://infopark.in/jobs/304",
+      "profileLink": "https://infopark.in/companies-profile/smec-automation-pvt-ltd"
+    },
+    {
+      "name": "SnippetCommerce360 Pvt Ltd",
+      "website": "snippetcommerce360.com",
+      "phone": "+91 9061234445",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development",
+        "Enterprise Solutions",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/SnippetCommerce360_Pvt_Ltd-1750397094.jpg",
+      "jobLink": "https://infopark.in/jobs/490",
+      "profileLink": "https://infopark.in/companies-profile/snippetcommerce360-pvt-ltd"
+    },
+    {
+      "name": "Softop Solutions Pvt Ltd",
+      "website": "www.softopsolutions.com",
+      "phone": "+971 529822133",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/639SoftTop_logo.png",
+      "jobLink": "https://infopark.in/jobs/462",
+      "profileLink": "https://infopark.in/companies-profile/softop-solutions-pvt-ltd"
+    },
+    {
+      "name": "Softspace Infotech Pvt Ltd",
+      "website": "www.softspace.ae",
+      "phone": "+91 9847811647",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/538Logo_Softspace.png",
+      "jobLink": "https://infopark.in/jobs/361",
+      "profileLink": "https://infopark.in/companies-profile/softspace-infotech-pvt-ltd"
+    },
+    {
+      "name": "Soulxes Technologies Pvt Ltd",
+      "website": "www.soulxes.com",
+      "phone": "+914842916448",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/624Soulxes-Logo.png",
+      "jobLink": "https://infopark.in/jobs/447",
+      "profileLink": "https://infopark.in/companies-profile/soulxes-technologies-pvt-ltd"
+    },
+    {
+      "name": "SparkSupport Infotech Pvt Ltd",
+      "website": "www.sparksupport.com",
+      "phone": "8129270421",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/166logo for infopark.jpg",
+      "jobLink": "https://infopark.in/jobs/63",
+      "profileLink": "https://infopark.in/companies-profile/sparksupport-infotech-pvt-ltd"
+    },
+    {
+      "name": "Spawoz Technologies Pvt. Ltd.",
+      "website": "www.spawoz.com",
+      "phone": null,
+      "domains": [
+        "Software Testing",
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/318logo_blackfont_small.png",
+      "jobLink": "https://infopark.in/jobs/151",
+      "profileLink": "https://infopark.in/companies-profile/spawoz-technologies-pvt-ltd"
+    },
+    {
+      "name": "Speridian Technologies Pvt Ltd",
+      "website": "www.speridian.com",
+      "phone": "+91 484 401 7951",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/309speridian_Logo.png",
+      "jobLink": "https://infopark.in/jobs/142",
+      "profileLink": "https://infopark.in/companies-profile/speridian-technologies-pvt-ltd"
+    },
+    {
+      "name": "Spiderline Technologies",
+      "website": "www.spiderline.in",
+      "phone": "+91 97453 66367",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/520spiderline logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/343",
+      "profileLink": "https://infopark.in/companies-profile/spiderline-technologies"
+    },
+    {
+      "name": "Spiralcode Innovates LLP",
+      "website": "www.spiralcode.in",
+      "phone": "8590041414",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "Enterprise Solutions",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Spiralcode_Innovates_LLP-1761801107.png",
+      "jobLink": "https://infopark.in/jobs/507",
+      "profileLink": "https://infopark.in/companies-profile/spiralcode-innovates-llp"
+    },
+    {
+      "name": "SS Consulting",
+      "website": "www.ssconsult.in",
+      "phone": "+91 8129688272",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/645SS-Consulting-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/468",
+      "profileLink": "https://infopark.in/companies-profile/ss-consulting"
+    },
+    {
+      "name": "Steigend IT Solutions",
+      "website": "steigendit.com",
+      "phone": "9946161106",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/steigend.jpg",
+      "jobLink": "https://infopark.in/jobs/238",
+      "profileLink": "https://infopark.in/companies-profile/steigend-it-solutions"
+    },
+    {
+      "name": "Stepping Stone Consultancy Services",
+      "website": "www.steppingstoneconsultancy.com",
+      "phone": "+91- 0484 - 2989811",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/528Stepping Stone-Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/351",
+      "profileLink": "https://infopark.in/companies-profile/stepping-stone-consultancy-services"
+    },
+    {
+      "name": "Strands Energy Pvt. Ltd",
+      "website": "www.strandsenergy.com",
+      "phone": "+91 480 2731126",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/215strands_logo.png",
+      "jobLink": "https://infopark.in/jobs/88",
+      "profileLink": "https://infopark.in/companies-profile/strands-energy-pvt-ltd"
+    },
+    {
+      "name": "Stream Perfect Global Services (SPGS)",
+      "website": "www.stream-perfect.com",
+      "phone": "0484-2972793",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/362logo-retina.png",
+      "jobLink": "https://infopark.in/jobs/191",
+      "profileLink": "https://infopark.in/companies-profile/stream-perfect-global-services-spgs"
+    },
+    {
+      "name": "SupportHub360",
+      "website": "www.supporthub360.com.au",
+      "phone": "9633 024 360",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/551SupportHub360-Logo.png",
+      "jobLink": "https://infopark.in/jobs/374",
+      "profileLink": "https://infopark.in/companies-profile/supporthub360"
+    },
+    {
+      "name": "SurveySparrow Pvt Ltd",
+      "website": "www.surveysparrow.com",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/326SurveySparrow-Logo.png",
+      "jobLink": "https://infopark.in/jobs/159",
+      "profileLink": "https://infopark.in/companies-profile/surveysparrow-pvt-ltd"
+    },
+    {
+      "name": "Syriac Consultancy Services Private Limited",
+      "website": "https://www.syriacconsultancy.com/",
+      "phone": "+91 8136923078",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/610Syriac Consultancy Logo.png",
+      "jobLink": "https://infopark.in/jobs/433",
+      "profileLink": "https://infopark.in/companies-profile/syriac-consultancy-services-private-limited"
+    },
+    {
+      "name": "SysTalent Software Private Limited",
+      "website": "www.systalent.com",
+      "phone": "+91 484 2415230",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/systalent_logo.gif",
+      "jobLink": "https://infopark.in/jobs/9",
+      "profileLink": "https://infopark.in/companies-profile/systalent-software-private-limited"
+    },
+    {
+      "name": "Talk Digital Pvt. Ltd.",
+      "website": "www.talkdigital.com.au",
+      "phone": "9446581090",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/498TD iamge.jpg",
+      "jobLink": "https://infopark.in/jobs/321",
+      "profileLink": "https://infopark.in/companies-profile/talk-digital-pvt-ltd"
+    },
+    {
+      "name": "Tamcherry Technologies Private Limited",
+      "website": "www.tamcherry.com",
+      "phone": "09633303943",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/568Tamcherry_New_Logo.png",
+      "jobLink": "https://infopark.in/jobs/391",
+      "profileLink": "https://infopark.in/companies-profile/tamcherry-technologies-private-limited"
+    },
+    {
+      "name": "Tata Consultancy Services,",
+      "website": "www.tcs.com",
+      "phone": "0484 618 7000",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Tata_Consultancy_Services,-1738750354.png",
+      "jobLink": "https://infopark.in/jobs/13",
+      "profileLink": "https://infopark.in/companies-profile/tata-consultancy-services"
+    },
+    {
+      "name": "TECFORZ INNOVATIONS",
+      "website": "tecforz.com",
+      "phone": "0484 4632159",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/603Techforz Logo.png",
+      "jobLink": "https://infopark.in/jobs/426",
+      "profileLink": "https://infopark.in/companies-profile/tecforz-innovations"
+    },
+    {
+      "name": "Tech Aventure",
+      "website": "www.techaventure.com",
+      "phone": "+91-478 2815657",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/562logo dp without writing2.jpg",
+      "jobLink": "https://infopark.in/jobs/385",
+      "profileLink": "https://infopark.in/companies-profile/tech-aventure"
+    },
+    {
+      "name": "Techfriar Technologies",
+      "website": "www.techfriar.com",
+      "phone": "+91-7356899156",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/516techfriar logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/339",
+      "profileLink": "https://infopark.in/companies-profile/techfriar-technologies"
+    },
+    {
+      "name": "Techgentsia Software Technologies Private Limited",
+      "website": null,
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/224TST Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/94",
+      "profileLink": "https://infopark.in/companies-profile/techgentsia-software-technologies-private-limited"
+    },
+    {
+      "name": "TechNeurons Consulting Solutions Private Limited",
+      "website": "www.techneurons.com",
+      "phone": "+91 7736001501",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/389techneurons.jpg",
+      "jobLink": "https://infopark.in/jobs/215",
+      "profileLink": "https://infopark.in/companies-profile/techneurons-consulting-solutions-private-limited"
+    },
+    {
+      "name": "Technowave ID Systems PVT.LTD.",
+      "website": "www.technowavegroup.com",
+      "phone": "8139021117",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/327image003.jpg",
+      "jobLink": "https://infopark.in/jobs/160",
+      "profileLink": "https://infopark.in/companies-profile/technowave-id-systems-pvt-ltd"
+    },
+    {
+      "name": "Techpullers Technology Solutions Pvt Ltd.",
+      "website": "techpullers.com",
+      "phone": "+919895156580",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/474tech-pullers.jpg",
+      "jobLink": "https://infopark.in/jobs/297",
+      "profileLink": "https://infopark.in/companies-profile/techpullers-technology-solutions-pvt-ltd"
+    },
+    {
+      "name": "TechTaliya Informatics Pvt. Ltd.",
+      "website": "techtaliya.com",
+      "phone": "+91 484 403 6777",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/459techtaliya-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/282",
+      "profileLink": "https://infopark.in/companies-profile/techtaliya-informatics-pvt-ltd"
+    },
+    {
+      "name": "Techversant Infotech Pvt Ltd",
+      "website": "www.techversantinfotech.com",
+      "phone": "0484 4014666",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/209Techversant_Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/85",
+      "profileLink": "https://infopark.in/companies-profile/techversant-infotech-pvt-ltd"
+    },
+    {
+      "name": "Techware Lab Pvt.Ltd.",
+      "website": "www.techwarelab.com",
+      "phone": "+91  9567787002",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/445Techware-Lab.jpg",
+      "jobLink": "https://infopark.in/jobs/268",
+      "profileLink": "https://infopark.in/companies-profile/techware-lab-pvt-ltd"
+    },
+    {
+      "name": "Tecnostac Systems Private Limited",
+      "website": "www.tecnostac.com",
+      "phone": "+91 95670 63871",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Tecnostac_Systems_Private_Limited-1738581646.png",
+      "jobLink": "https://infopark.in/jobs/445",
+      "profileLink": "https://infopark.in/companies-profile/tecnostac-systems-private-limited"
+    },
+    {
+      "name": "Telious Technologies Pvt Ltd",
+      "website": "www.telious.com",
+      "phone": "+91 94956 58233",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/TELIOUS_TECHNOLOGIES_PRIVATE_LIMITED-1739882561.png",
+      "jobLink": "https://infopark.in/jobs/471",
+      "profileLink": "https://infopark.in/companies-profile/telious-technologies-pvt-ltd"
+    },
+    {
+      "name": "Terrific Minds Private Limited",
+      "website": "www.terrificminds.com",
+      "phone": "+91 7559903555",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/530Terrificminds Logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/353",
+      "profileLink": "https://infopark.in/companies-profile/terrific-minds-private-limited"
+    },
+    {
+      "name": "Testing Mavens Software Pvt  Ltd",
+      "website": "www.testingmavens.com",
+      "phone": "+91 8138924300",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/372TESTING-MAVENS_267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/200",
+      "profileLink": "https://infopark.in/companies-profile/testing-mavens-software-pvt-ltd"
+    },
+    {
+      "name": "Thinkpalm Technologies Pvt.Ltd",
+      "website": "www.thinkpalm.com",
+      "phone": "0484-4104100",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/114thinkpam-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/49",
+      "profileLink": "https://infopark.in/companies-profile/thinkpalm-technologies-pvt-ltd"
+    },
+    {
+      "name": "Thomsun Infocare LLP",
+      "website": "www.thomsuninfocare.com",
+      "phone": "+919995868299",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/436logo-thomson.png",
+      "jobLink": "https://infopark.in/jobs/259",
+      "profileLink": "https://infopark.in/companies-profile/thomsun-infocare-llp"
+    },
+    {
+      "name": "ThoughtMinds System Pvt Ltd",
+      "website": "https://thoughtminds.ai/",
+      "phone": "+91 7510303111",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "Data Science & Analytics",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)",
+        "Enterprise Solutions"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Thoughtminds_System_Pvt_Ltd-1748417173.jpg",
+      "jobLink": "https://infopark.in/jobs/485",
+      "profileLink": "https://infopark.in/companies-profile/thoughtminds-system-pvt-ltd"
+    },
+    {
+      "name": "Thriveminds Technologies Pvt. Ltd.",
+      "website": "www.thrivemindsinnovations.com",
+      "phone": "09074535476",
+      "domains": [
+        "Software Development",
+        "Management Consulting",
+        "AR/VR Solutions & Immersive Technology",
+        "Metaverse Development & Virtual Experiences",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Thriveminds_Technologies_Pvt._Ltd.-1785221018.jpg",
+      "jobLink": "https://infopark.in/jobs/541",
+      "profileLink": "https://infopark.in/companies-profile/thriveminds-technologies-pvt-ltd"
+    },
+    {
+      "name": "Titan Tech Emirates Pvt Ltd",
+      "website": "titantechemirates.com",
+      "phone": "9591546465",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/490Logo-titan.jpg",
+      "jobLink": "https://infopark.in/jobs/313",
+      "profileLink": "https://infopark.in/companies-profile/titan-tech-emirates-pvt-ltd"
+    },
+    {
+      "name": "TNP Consultancy Private Limited",
+      "website": "www.tnpconsultants.com/en/tnp-india",
+      "phone": "+91 8139894880",
+      "domains": [
+        "Data Science & Analytics",
+        "IT Consulting & Managed Services",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/TNP_Consultancy_Private_Limited-1749623589.jpg",
+      "jobLink": "https://infopark.in/jobs/489",
+      "profileLink": "https://infopark.in/companies-profile/tnp-consultancy-private-limited"
+    },
+    {
+      "name": "Toobler Technologies Pvt. Ltd.",
+      "website": "www.toobler.com",
+      "phone": "91-484 4034359",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Toobler_Technologies_Pvt._Ltd.-1773656592.png",
+      "jobLink": "https://infopark.in/jobs/57",
+      "profileLink": "https://infopark.in/companies-profile/toobler-technologies-pvt-ltd"
+    },
+    {
+      "name": "TouchWorld Technology",
+      "website": "www.touchworldtech.com",
+      "phone": "0474 2970 298",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/529Touchworld-logo.png",
+      "jobLink": "https://infopark.in/jobs/352",
+      "profileLink": "https://infopark.in/companies-profile/touchworld-technology"
+    },
+    {
+      "name": "Trafoss Pvt.Ltd",
+      "website": "www.trafoss.com",
+      "phone": "+91-9746993017",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/618Trafoss-Logo.png",
+      "jobLink": "https://infopark.in/jobs/441",
+      "profileLink": "https://infopark.in/companies-profile/trafoss-pvt-ltd"
+    },
+    {
+      "name": "Tranzmeo",
+      "website": "www.tranzmeo.com",
+      "phone": "0484-4033744",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/324image003.png",
+      "jobLink": "https://infopark.in/jobs/157",
+      "profileLink": "https://infopark.in/companies-profile/tranzmeo"
+    },
+    {
+      "name": "Travancore Analytics Pvt.Ltd.",
+      "website": "www.travancoreanalytics.com",
+      "phone": "9188955501",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/311rsz_talogo.jpg",
+      "jobLink": "https://infopark.in/jobs/144",
+      "profileLink": "https://infopark.in/companies-profile/travancore-analytics-pvt-ltd"
+    },
+    {
+      "name": "Tukxi India Private Ltd",
+      "website": "www.tukxi.in",
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/621tukxi_logo.png",
+      "jobLink": "https://infopark.in/jobs/444",
+      "profileLink": "https://infopark.in/companies-profile/tukxi-india-private-ltd"
+    },
+    {
+      "name": "Turqosoft Solutions Pvt. Ltd.",
+      "website": "www.turqosoft.com",
+      "phone": "+91 98412 05845",
+      "domains": [
+        "ERP",
+        "Mobile Application Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/617TurqosoftLogoOriginal.png",
+      "jobLink": "https://infopark.in/jobs/440",
+      "profileLink": "https://infopark.in/companies-profile/turqosoft-solutions-pvt-ltd"
+    },
+    {
+      "name": "Tuttifrutti Games Pvt Ltd",
+      "website": "www.tuttifrutti.in",
+      "phone": "9446435606",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/375tutti-frutti_267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/203",
+      "profileLink": "https://infopark.in/companies-profile/tuttifrutti-games-pvt-ltd"
+    },
+    {
+      "name": "Unilaw Global Private Limited",
+      "website": "www.unilawtech.com",
+      "phone": "+91 99950 45717",
+      "domains": [
+        "UI/UX Design & Development",
+        "Networking & IT Infrastructure",
+        "Cloud Computing",
+        "Enterprise Solutions",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Unilaw_Global_Private_Limited-1754298915.jpg",
+      "jobLink": "https://infopark.in/jobs/496",
+      "profileLink": "https://infopark.in/companies-profile/unilaw-global-private-limited"
+    },
+    {
+      "name": "UROLIME",
+      "website": "www.urolime.com",
+      "phone": "0484-2984589",
+      "domains": [
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/276Urolime.png",
+      "jobLink": "https://infopark.in/jobs/118",
+      "profileLink": "https://infopark.in/companies-profile/urolime-technologies-private-limited"
+    },
+    {
+      "name": "US Technology International Pvt Ltd",
+      "website": "www.ust.com",
+      "phone": "0484-4040000",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/35ust.jpg",
+      "jobLink": "https://infopark.in/jobs/19",
+      "profileLink": "https://infopark.in/companies-profile/us-technology-international-pvt-ltd"
+    },
+    {
+      "name": "Vaisesika Consulting Private Limited",
+      "website": "vaisesikaconsulting.com",
+      "phone": "8547432502",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/370vaisesika_267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/198",
+      "profileLink": "https://infopark.in/companies-profile/vaisesika-consulting-private-limited"
+    },
+    {
+      "name": "ValueMentor Infosec Pvt. Ltd.",
+      "website": "www.valuementor.com",
+      "phone": "+919745037742",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/190Logo-vm.jpg",
+      "jobLink": "https://infopark.in/jobs/73",
+      "profileLink": "https://infopark.in/companies-profile/valuementor-infosec-pvt-ltd"
+    },
+    {
+      "name": "Varishtha Infotech Services Pvt Ltd.",
+      "website": "www.varishthainfotech.com",
+      "phone": "+971 58 5049701",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/596Varishtha Logo TNew2024.jpg",
+      "jobLink": "https://infopark.in/jobs/419",
+      "profileLink": "https://infopark.in/companies-profile/varishtha-infotech-services-pvt-ltd"
+    },
+    {
+      "name": "Veeble SoftTech (P) Ltd.",
+      "website": "www.veeble.com",
+      "phone": "7012099465",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Veeble-Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/220",
+      "profileLink": "https://infopark.in/companies-profile/veeble-softtech-p-ltd"
+    },
+    {
+      "name": "Verteil Technologies Private Limited,",
+      "website": "www.verteil.com",
+      "phone": "+91-484-4019970",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/442verteil.png",
+      "jobLink": "https://infopark.in/jobs/265",
+      "profileLink": "https://infopark.in/companies-profile/verteil-technologies-private-limited"
+    },
+    {
+      "name": "Viewy Digital P(Ltd)",
+      "website": "www.viewydigital.com",
+      "phone": "00914842331101",
+      "domains": [
+        "AI",
+        "Robotics",
+        "Open Source"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/409ViewyDigital-Logo.png",
+      "jobLink": "https://infopark.in/jobs/232",
+      "profileLink": "https://infopark.in/companies-profile/viewy-digital-p-ltd"
+    },
+    {
+      "name": "Violet Frames",
+      "website": "www.violetframes.com",
+      "phone": "9744403855",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/642VIOLET_FRAMES_LOGO.png",
+      "jobLink": "https://infopark.in/jobs/465",
+      "profileLink": "https://infopark.in/companies-profile/violet-frames"
+    },
+    {
+      "name": "VIPoint Solutions Pvt Ltd",
+      "website": "www.vipointsolutions.net",
+      "phone": "484-4050222",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/165VIPoint-logo (300x150) (200x100) - Copy.jpg",
+      "jobLink": "https://infopark.in/jobs/62",
+      "profileLink": "https://infopark.in/companies-profile/vipoint-solutions-pvt-ltd"
+    },
+    {
+      "name": "Virtual Impulse Technologies",
+      "website": "https://vimptech.com/",
+      "phone": "+91 9847670036",
+      "domains": [
+        "Software Development",
+        "UI/UX Design & Development",
+        "Customer Support & Helpdesk Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/575VimpTech-Logo.PNG",
+      "jobLink": "https://infopark.in/jobs/398",
+      "profileLink": "https://infopark.in/companies-profile/virtual-impulse-technologies"
+    },
+    {
+      "name": "Virtual Sys Technologies",
+      "website": "virtualsystechnologies.com",
+      "phone": "0478-2554004",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/200vst.png",
+      "jobLink": "https://infopark.in/jobs/81",
+      "profileLink": "https://infopark.in/companies-profile/virtual-sys-technologies"
+    },
+    {
+      "name": "Vistas Global Intellect Private Limited",
+      "website": "vistasglobal.com",
+      "phone": "+918138914366",
+      "domains": [
+        "Customer Support & Helpdesk Services",
+        "Finance & Accounting Services",
+        "BIM (Building Information Modeling) Solutions",
+        "UI/UX Design & Development",
+        "Enterprise Solutions"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Vistas_Global_Intellect_Private_Limited-1751539842.jpg",
+      "jobLink": "https://infopark.in/jobs/492",
+      "profileLink": "https://infopark.in/companies-profile/vistas-global-intellect-private-limited"
+    },
+    {
+      "name": "Vivish Technologies Private Limited",
+      "website": "mygate.com",
+      "phone": null,
+      "domains": [
+        "Networking & IT Infrastructure",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Vivish_Technologies_Private_Limited-1781000207.jpg",
+      "jobLink": "https://infopark.in/jobs/537",
+      "profileLink": "https://infopark.in/companies-profile/vivish-technologies-private-limited"
+    },
+    {
+      "name": "Vortexen Dynamics",
+      "website": "www.vortexen.com",
+      "phone": "+918848850414",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/588Vortexen-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/411",
+      "profileLink": "https://infopark.in/companies-profile/vortexen-dynamics"
+    },
+    {
+      "name": "Voxtron Solutions LLP",
+      "website": "www.voxtronme.com",
+      "phone": "+91-7356218111",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/513Voxtron-final_logo-.jpeg",
+      "jobLink": "https://infopark.in/jobs/336",
+      "profileLink": "https://infopark.in/companies-profile/voxtron-solutions-llp"
+    },
+    {
+      "name": "Voyager IT Solutions Pvt Ltd",
+      "website": "www.itvoyager.com",
+      "phone": "+91 478 2553310",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/218voyager_infopark.jpg",
+      "jobLink": "https://infopark.in/jobs/90",
+      "profileLink": "https://infopark.in/companies-profile/voyager-it-solutions-pvt-ltd"
+    },
+    {
+      "name": "Voyon Technology Pvt Ltd",
+      "website": "www.voyonfolks.com",
+      "phone": "06282685797",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/549LOGO-without Voyon Text.jpg",
+      "jobLink": "https://infopark.in/jobs/372",
+      "profileLink": "https://infopark.in/companies-profile/voyon-technology-pvt-ltd"
+    },
+    {
+      "name": "Vtrio Solutions Private Limited",
+      "website": "www.vtrio.com",
+      "phone": "91-9656600307",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/277rsz_logofinal.jpg",
+      "jobLink": "https://infopark.in/jobs/119",
+      "profileLink": "https://infopark.in/companies-profile/vtrio-solutions-private-limited"
+    },
+    {
+      "name": "VVDN Technologies Pvt Ltd",
+      "website": "www.vvdntech.com",
+      "phone": "+91 9778642081",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/565VVDN logo.jpeg",
+      "jobLink": "https://infopark.in/jobs/388",
+      "profileLink": "https://infopark.in/companies-profile/vvdn-technologies-pvt-ltd"
+    },
+    {
+      "name": "Wazeefa1 Technologies Pvt. Ltd.",
+      "website": "www.wazeefa.in",
+      "phone": "+91-487-2970765, +91-9188339903",
+      "domains": [
+        "Software Development",
+        "Digital Marketing & Content Services",
+        "UI/UX Design & Development",
+        "IT Consulting & Managed Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/261Wazeefa.png",
+      "jobLink": "https://infopark.in/jobs/108",
+      "profileLink": "https://infopark.in/companies-profile/wazeefa1-technologies-pvt-ltd"
+    },
+    {
+      "name": "Webandcrafts",
+      "website": "www.webandcrafts.com",
+      "phone": "+91 480 2733999",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/Webandcrafts-1738664189.png",
+      "jobLink": "https://infopark.in/jobs/105",
+      "profileLink": "https://infopark.in/companies-profile/webandcrafts"
+    },
+    {
+      "name": "Webdura Technologies",
+      "website": "www.webduratech.com",
+      "phone": "8714746555",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/358webdura_logo02.png",
+      "jobLink": "https://infopark.in/jobs/187",
+      "profileLink": "https://infopark.in/companies-profile/webdura-technologies"
+    },
+    {
+      "name": "White Rabbit Group",
+      "website": "https://whiterabbit.group/",
+      "phone": "6282370765",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/White_Rabbit_Group-1741779642.jpg",
+      "jobLink": "https://infopark.in/jobs/149",
+      "profileLink": "https://infopark.in/companies-profile/white-rabbit-group"
+    },
+    {
+      "name": "Windfall Productions Pvt.Ltd.",
+      "website": "www.windfallproductions.org",
+      "phone": "9072312681",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/281WindfallLogo.png",
+      "jobLink": "https://infopark.in/jobs/122",
+      "profileLink": "https://infopark.in/companies-profile/windfall-productions-pvt-ltd"
+    },
+    {
+      "name": "Wipro Limited",
+      "website": "www.wipro.com",
+      "phone": "0484-4320685",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/280wiprologo.png",
+      "jobLink": "https://infopark.in/jobs/121",
+      "profileLink": "https://infopark.in/companies-profile/wipro-limited"
+    },
+    {
+      "name": "WOC Branding Systems Pvt Ltd",
+      "website": "www.wocbranding.com",
+      "phone": "+91 9447306003",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/423WOC Branding-01.jpg",
+      "jobLink": "https://infopark.in/jobs/246",
+      "profileLink": "https://infopark.in/companies-profile/woc-branding-systems-pvt-ltd"
+    },
+    {
+      "name": "WORKSENT TECHNOLOGIES PVT LTD",
+      "website": "www.worksent.com",
+      "phone": "79941677773",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/332eynetech267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/164",
+      "profileLink": "https://infopark.in/companies-profile/worksent-technologies-pvt-ltd"
+    },
+    {
+      "name": "Woxro",
+      "website": "www.woxro.com",
+      "phone": "+91 480 2081730",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/576woxro-logo.jpg",
+      "jobLink": "https://infopark.in/jobs/399",
+      "profileLink": "https://infopark.in/companies-profile/woxro"
+    },
+    {
+      "name": "Yatnam Technologies",
+      "website": "www.yatnam.com",
+      "phone": "+91484-404-9024",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/590Yatnam-Logo.jpg",
+      "jobLink": "https://infopark.in/jobs/413",
+      "profileLink": "https://infopark.in/companies-profile/yatnam-technologies"
+    },
+    {
+      "name": "Yavun Technologies",
+      "website": "www.webcontentor.com",
+      "phone": "9654765276",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/566Logo-Yavun.jpeg",
+      "jobLink": "https://infopark.in/jobs/389",
+      "profileLink": "https://infopark.in/companies-profile/yavun-technologies"
+    },
+    {
+      "name": "Yellowfish Digital Innovations Pvt Ltd.",
+      "website": "www.yellowfish.in",
+      "phone": null,
+      "domains": [
+        "ERP",
+        "Open Source",
+        "AI"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/433Yellofish-logo.png",
+      "jobLink": "https://infopark.in/jobs/256",
+      "profileLink": "https://infopark.in/companies-profile/yellowfish-digital-innovations-pvt-ltd"
+    },
+    {
+      "name": "Ynot Infosolutions",
+      "website": "www.ynotinfo.com",
+      "phone": "+91 9544885558",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/439Ynot_Infosolutions_logo.png",
+      "jobLink": "https://infopark.in/jobs/262",
+      "profileLink": "https://infopark.in/companies-profile/ynot-infosolutions"
+    },
+    {
+      "name": "YOUGotaGift Pvt Ltd",
+      "website": "www.yougotagift.com",
+      "phone": "+91 9895482001",
+      "domains": [
+        "IT Consulting & Managed Services",
+        "UI/UX Design & Development",
+        "Networking & IT Infrastructure",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/YouGotaGift_Pvt_Ltd-1748416374.png",
+      "jobLink": "https://infopark.in/jobs/482",
+      "profileLink": "https://infopark.in/companies-profile/yougotagift-pvt-ltd"
+    },
+    {
+      "name": "Zamorins Solutions (P) Ltd",
+      "website": "https://www.zamorinstech.com/",
+      "phone": "+91 8304004275.",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/460zamorins_logo.png",
+      "jobLink": "https://infopark.in/jobs/283",
+      "profileLink": "https://infopark.in/companies-profile/zamorins-solutions-p-ltd"
+    },
+    {
+      "name": "Zapare Technologies Private Limited",
+      "website": "www.zaparetech.com",
+      "phone": "+91 811 388 55 44",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/303ZapareTechnologies.jpg",
+      "jobLink": "https://infopark.in/jobs/137",
+      "profileLink": "https://infopark.in/companies-profile/zapare-technologies-private-limited"
+    },
+    {
+      "name": "Zealogics IT Solutions",
+      "website": "www.zealogics.com",
+      "phone": "0484 4049055",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/335logo.jpg.jpg",
+      "jobLink": "https://infopark.in/jobs/167",
+      "profileLink": "https://infopark.in/companies-profile/zealogics-it-solutions"
+    },
+    {
+      "name": "Zellis HR India Pvt.Ltd.",
+      "website": "www.zellis.com",
+      "phone": "+91 484 486 5758",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/348zellis 267x150.jpg",
+      "jobLink": "https://infopark.in/jobs/177",
+      "profileLink": "https://infopark.in/companies-profile/zellis-hr-india-pvt-ltd"
+    },
+    {
+      "name": "Zinbay India Pvt.Ltd.",
+      "website": "www.zinbayindia.com",
+      "phone": "+91 999 590 7220",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/zinbay_logo.jpg",
+      "jobLink": "https://infopark.in/jobs/217",
+      "profileLink": "https://infopark.in/companies-profile/zinbay-india-pvt-ltd"
+    },
+    {
+      "name": "ZineMind Technologies",
+      "website": null,
+      "phone": null,
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/194zinemind.jpg",
+      "jobLink": "https://infopark.in/jobs/77",
+      "profileLink": "https://infopark.in/companies-profile/zinemind-technologies"
+    },
+    {
+      "name": "Zoiteckh Informations Solutions",
+      "website": "www.zoiteckh.com",
+      "phone": "+91-7306892494",
+      "domains": [],
+      "logo": "https://infopark.in/upload_images/company_logos/643Zoiteckh_logo.jpg",
+      "jobLink": "https://infopark.in/jobs/466",
+      "profileLink": "https://infopark.in/companies-profile/zoiteckh-informations-solutions"
+    }
+  ]
+}
