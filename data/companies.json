@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-15T08:04:04.147Z",
-  "count": 391,
+  "scrapedAt": "2026-09-16T07:57:13.405Z",
+  "count": 396,
   "companies": [
     {
       "name": "2Base Technologies Pvt Ltd",
@@ -960,6 +960,19 @@
       "profileLink": "https://infopark.in/companies-profile/dimensions-cybertech-india-pvt-ltd"
     },
     {
+      "name": "Direct7 Telecom Solutions Pvt Ltd",
+      "website": "www.d7networks.com",
+      "phone": "9061031705",
+      "domains": [
+        "Customer Support & Helpdesk Services",
+        "Enterprise Solutions",
+        "Communication Platform Service Provider"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Direct7_Telecom_Solutions_Pvt_Ltd-1789473026.png",
+      "jobLink": "https://infopark.in/jobs/547",
+      "profileLink": "https://infopark.in/companies-profile/direct7-telecom-solutions-pvt-ltd"
+    },
+    {
       "name": "Distinct Infotech Solutions",
       "website": "www.distinctinfotech.com",
       "phone": "+91 9074508742",
@@ -1608,6 +1621,18 @@
       "profileLink": "https://infopark.in/companies-profile/idatalytics-pvt-ltd"
     },
     {
+      "name": "Idea Soft Solutions",
+      "website": "ideasoftsolutions.com",
+      "phone": "+91 9946675005",
+      "domains": [
+        "UI/UX Design & Development",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Idea_Soft_Solutions-1789541850.jpg",
+      "jobLink": "https://infopark.in/jobs/548",
+      "profileLink": "https://infopark.in/companies-profile/idea-soft-solutions"
+    },
+    {
       "name": "IdeaGCS Private Limited",
       "website": "ideagcs.com",
       "phone": "+91 9746126217",
@@ -1849,6 +1874,17 @@
       "logo": "https://infopark.in/upload_images/company_logos/581JobinJIsmi-Logo.jpeg",
       "jobLink": "https://infopark.in/jobs/404",
       "profileLink": "https://infopark.in/companies-profile/jobin-jismi-pvt-ltd"
+    },
+    {
+      "name": "Johnkart Online Trade and Services Pvt Ltd",
+      "website": "jotsdigital.com",
+      "phone": "+91 98470 41060",
+      "domains": [
+        "Digital Marketing & Content Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Johnkart_Online_Trade_and_Services_Pvt_Ltd-1789542100.png",
+      "jobLink": "https://infopark.in/jobs/549",
+      "profileLink": "https://infopark.in/companies-profile/johnkart-online-trade-and-services-pvt-ltd"
     },
     {
       "name": "JohnTuringWatson Software Solutions Pvt Ltd",
@@ -2781,6 +2817,21 @@
       "profileLink": "https://infopark.in/companies-profile/quest-global-engineering-services-pvt-ltd"
     },
     {
+      "name": "Quper Technologies Pvt. Ltd.",
+      "website": "qupertech.com",
+      "phone": "+91-8891295315",
+      "domains": [
+        "Data Science & Analytics",
+        "Cloud Computing",
+        "Enterprise Solutions",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Quper_Technologies_Pvt._Ltd.-1789542394.png",
+      "jobLink": "https://infopark.in/jobs/550",
+      "profileLink": "https://infopark.in/companies-profile/quper-technologies-pvt-ltd"
+    },
+    {
       "name": "Raintech Software Ltd",
       "website": "raintechsoftware.com",
       "phone": "+918078311945,  +91 8606093110",
@@ -3061,6 +3112,21 @@
       "logo": "https://infopark.in/upload_images/company_logos/SnippetCommerce360_Pvt_Ltd-1750397094.jpg",
       "jobLink": "https://infopark.in/jobs/490",
       "profileLink": "https://infopark.in/companies-profile/snippetcommerce360-pvt-ltd"
+    },
+    {
+      "name": "Sofdia Technologies Pvt Ltd",
+      "website": "sofdia.in",
+      "phone": "+91 9037021110",
+      "domains": [
+        "UI/UX Design & Development",
+        "Internet of Things (IoT)",
+        "Data Science & Analytics",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Sofdia_Technologies_Pvt_Ltd-1789471197.jpg",
+      "jobLink": "https://infopark.in/jobs/546",
+      "profileLink": "https://infopark.in/companies-profile/sofdia-technologies-pvt-ltd"
     },
     {
       "name": "Softop Solutions Pvt Ltd",
