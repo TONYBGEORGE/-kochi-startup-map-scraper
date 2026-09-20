@@ -1,69 +1,97 @@
 {
-  "scrapedAt": "2026-09-19T07:34:45.518Z",
-  "count": 437,
+  "scrapedAt": "2026-09-20T07:57:08.748Z",
+  "count": 430,
   "jobs": [
+    {
+      "posted": "20-09-2026",
+      "title": "UX Writer (Growth)",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "21 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25593"
+    },
+    {
+      "posted": "20-09-2026",
+      "title": "Growth Lead",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "21 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25592"
+    },
+    {
+      "posted": "20-09-2026",
+      "title": "Global Partnerships Manager",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "21 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25591"
+    },
+    {
+      "posted": "20-09-2026",
+      "title": "Affiliate Marketing Manager",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "21 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25590"
+    },
+    {
+      "posted": "20-09-2026",
+      "title": "Content Writer",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "21 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25589"
+    },
+    {
+      "posted": "20-09-2026",
+      "title": "AI Search & Agentic Growth Specialist (LLM SEO)",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "21 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25588"
+    },
+    {
+      "posted": "20-09-2026",
+      "title": "Meta Ads Specialist",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "21 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25587"
+    },
+    {
+      "posted": "20-09-2026",
+      "title": "Legal Content Specialist (LLB)",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "21 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25586"
+    },
+    {
+      "posted": "19-09-2026",
+      "title": "Senior Digital Marketing Specialist",
+      "company": "Gravity Business Process Private Limited",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/538/25585"
+    },
+    {
+      "posted": "19-09-2026",
+      "title": "Front Office Executive",
+      "company": "Dynamed Healthcare Solutions Pvt.Ltd.",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/132/25584"
+    },
+    {
+      "posted": "19-09-2026",
+      "title": "Executive – Accounts & Audit",
+      "company": "IVBM Pvt Ltd",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/551/25583"
+    },
+    {
+      "posted": "19-09-2026",
+      "title": "Software Engineer",
+      "company": "Softop Solutions Pvt Ltd",
+      "lastDate": "31 Oct 2026",
+      "link": "https://infopark.in/company-jobs/details/462/25582"
+    },
     {
       "posted": "19-09-2026",
       "title": "Senior Business Development Specialist – IT Services",
       "company": "Grapelime Innovations Private Limited.",
       "lastDate": "21 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/296/25581"
-    },
-    {
-      "posted": "19-09-2026",
-      "title": "Legal Content Specialist (LLB)",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "20 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25580"
-    },
-    {
-      "posted": "19-09-2026",
-      "title": "Meta Ads Specialist",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "20 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25579"
-    },
-    {
-      "posted": "19-09-2026",
-      "title": "AI Search & Agentic Growth Specialist (LLM SEO)",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "20 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25578"
-    },
-    {
-      "posted": "19-09-2026",
-      "title": "Content Writer",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "20 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25577"
-    },
-    {
-      "posted": "19-09-2026",
-      "title": "Affiliate Marketing Manager",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "20 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25576"
-    },
-    {
-      "posted": "19-09-2026",
-      "title": "Global Partnerships Manager",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "20 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25575"
-    },
-    {
-      "posted": "19-09-2026",
-      "title": "Growth Lead",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "20 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25574"
-    },
-    {
-      "posted": "19-09-2026",
-      "title": "UX Writer (Growth)",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "20 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25573"
     },
     {
       "posted": "18-09-2026",
@@ -118,50 +146,8 @@
       "posted": "18-09-2026",
       "title": "HVAC Engineer",
       "company": "Gravity Business Process Private Limited",
-      "lastDate": "18 Oct 2026",
+      "lastDate": "30 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/538/25523"
-    },
-    {
-      "posted": "18-09-2026",
-      "title": "Content Writing Intern",
-      "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25521"
-    },
-    {
-      "posted": "18-09-2026",
-      "title": "Visual Designer",
-      "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25520"
-    },
-    {
-      "posted": "18-09-2026",
-      "title": "Marketing & Growth Lead",
-      "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25519"
-    },
-    {
-      "posted": "18-09-2026",
-      "title": "Associate - System Engineer",
-      "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25518"
-    },
-    {
-      "posted": "18-09-2026",
-      "title": "Business Development Manager",
-      "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25517"
-    },
-    {
-      "posted": "18-09-2026",
-      "title": "Associate - QA Engineer",
-      "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25516"
     },
     {
       "posted": "18-09-2026",
@@ -365,13 +351,6 @@
       "company": "Planet Media India ( PMIN Agency Pvt.Ltd.)",
       "lastDate": "30 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/266/25465"
-    },
-    {
-      "posted": "14-09-2026",
-      "title": "Website QA Engineer Intern",
-      "company": "NewAgeSys Solutions (P) Ltd.",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/109/25456"
     },
     {
       "posted": "14-09-2026",
@@ -634,6 +613,13 @@
     },
     {
       "posted": "08-09-2026",
+      "title": "QA Engineer (Immediate Joiner)",
+      "company": "CSEIDC TECHNOLOGIES PVT LTD",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/481/25375"
+    },
+    {
+      "posted": "08-09-2026",
       "title": "IT Service Desk SME (Exp: 3+ Yrs)",
       "company": "LucidPlus Infotech Pvt Ltd",
       "lastDate": "20 Sep 2026",
@@ -722,13 +708,6 @@
       "company": "CSEIDC TECHNOLOGIES PVT LTD",
       "lastDate": "30 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/481/25339"
-    },
-    {
-      "posted": "04-09-2026",
-      "title": "Senior WordPress Developer",
-      "company": "Apro IT Solutions Pvt Ltd",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/420/25334"
     },
     {
       "posted": "04-09-2026",
@@ -834,13 +813,6 @@
       "company": "Neork Technologies",
       "lastDate": "30 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/494/25305"
-    },
-    {
-      "posted": "03-09-2026",
-      "title": "Digital Marketing Executive Walk-in Interview on 17th September @SOUTH METRO I BY Infopark location",
-      "company": "Lisbell Technologies Pvt Ltd",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/542/25296"
     },
     {
       "posted": "03-09-2026",
@@ -1289,13 +1261,6 @@
       "company": "Feathersoft Info Solutions Private Ltd",
       "lastDate": "30 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/269/25020"
-    },
-    {
-      "posted": "07-08-2026",
-      "title": "Video Editor",
-      "company": "GALTech Technologies Pvt Ltd",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/189/25019"
     },
     {
       "posted": "07-08-2026",
@@ -1796,13 +1761,6 @@
     },
     {
       "posted": "22-06-2026",
-      "title": "Digital Marketing Analyst",
-      "company": "Armia Systems Pvt. Ltd",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/3/24239"
-    },
-    {
-      "posted": "22-06-2026",
       "title": "Senior QA Automation & AI Testing Engineer(6+ years)",
       "company": "Armia Systems Pvt. Ltd",
       "lastDate": "26 Sep 2026",
@@ -2171,13 +2129,6 @@
       "company": "Eqsoft Business Solutions Pvt Ltd",
       "lastDate": "31 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/286/23175"
-    },
-    {
-      "posted": "24-04-2026",
-      "title": "Legal Analyst (Immigration)",
-      "company": "Unilaw Global Private Limited",
-      "lastDate": "19 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/496/23172"
     },
     {
       "posted": "21-04-2026",

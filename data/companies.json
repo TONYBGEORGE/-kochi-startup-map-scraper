@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-19T07:34:28.545Z",
-  "count": 394,
+  "scrapedAt": "2026-09-20T07:56:52.662Z",
+  "count": 396,
   "companies": [
     {
       "name": "2Base Technologies Pvt Ltd",
@@ -711,6 +711,21 @@
       "logo": "https://infopark.in/upload_images/company_logos/191logo_new3.png",
       "jobLink": "https://infopark.in/jobs/74",
       "profileLink": "https://infopark.in/companies-profile/cognicor-technologies-pvt-ltd"
+    },
+    {
+      "name": "Cogniwide Technologies Private Limited",
+      "website": "www.cogniwide.com",
+      "phone": null,
+      "domains": [
+        "Data Science & Analytics",
+        "Cloud Computing",
+        "Enterprise Solutions",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Cogniwide_Technologies_Private_Limited-1789806202.png",
+      "jobLink": "https://infopark.in/jobs/552",
+      "profileLink": "https://infopark.in/companies-profile/cogniwide-technologies-private-limited"
     },
     {
       "name": "Cognizant Technology Solutions",
@@ -1823,6 +1838,21 @@
       "logo": "https://infopark.in/upload_images/company_logos/508Interland_Logo-01.jpg",
       "jobLink": "https://infopark.in/jobs/331",
       "profileLink": "https://infopark.in/companies-profile/internland-technology-services-private-limited"
+    },
+    {
+      "name": "IVBM Pvt Ltd",
+      "website": "www.ivbmcs.com",
+      "phone": "+917593882470",
+      "domains": [
+        "Back Office & Administrative Services",
+        "Finance & Accounting Services",
+        "Digital Marketing & Content Services",
+        "Data Science & Analytics",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/IVBM_Pvt_Ltd-1789805520.png",
+      "jobLink": "https://infopark.in/jobs/551",
+      "profileLink": "https://infopark.in/companies-profile/ivbm-pvt-ltd"
     },
     {
       "name": "iWEX Infomatics",
