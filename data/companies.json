@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-22T07:58:43.658Z",
-  "count": 396,
+  "scrapedAt": "2026-09-23T07:59:58.144Z",
+  "count": 397,
   "companies": [
     {
       "name": "2Base Technologies Pvt Ltd",
@@ -1532,6 +1532,18 @@
       "logo": "https://infopark.in/upload_images/company_logos/Grehasoft-1749622079.jpg",
       "jobLink": "https://infopark.in/jobs/487",
       "profileLink": "https://infopark.in/companies-profile/grehasoft"
+    },
+    {
+      "name": "Griphin Graphics",
+      "website": "griphingraphics.com",
+      "phone": "09447576455",
+      "domains": [
+        "UI/UX Design & Development",
+        "Brand Identity Design"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Griphin_Graphics-1790146605.png",
+      "jobLink": "https://infopark.in/jobs/553",
+      "profileLink": "https://infopark.in/companies-profile/griphin-graphics"
     },
     {
       "name": "HashRoot Technologies Pvt Ltd",

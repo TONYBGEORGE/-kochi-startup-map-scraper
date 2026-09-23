@@ -1,48 +1,223 @@
 {
-  "scrapedAt": "2026-09-22T07:59:00.222Z",
-  "count": 455,
+  "scrapedAt": "2026-09-23T08:00:17.198Z",
+  "count": 466,
   "jobs": [
     {
-      "posted": "22-09-2026",
+      "posted": "23-09-2026",
+      "title": "NOC ENGINEER",
+      "company": "Intbrains Private Limited",
+      "lastDate": "24 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/373/25666"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "Technical Project Lead/Manager – .NET required for JTSi Technologies India Pvt Ltd at Kochi Infopark./EST Time Zone/ 06:30PM-03:30AM",
+      "company": "JTSi Technologies India Private Limited",
+      "lastDate": "25 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/55/25665"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "Mobile App Developer-Flutter required for JTSi Technologies India Pvt Ltd at Kochi Infopark.",
+      "company": "JTSi Technologies India Private Limited",
+      "lastDate": "25 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/55/25664"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "Sr. UI/UX Designer",
+      "company": "2Base Technologies Pvt Ltd",
+      "lastDate": "23 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/312/25663"
+    },
+    {
+      "posted": "23-09-2026",
       "title": "Content Writer",
       "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25634"
+      "lastDate": "23 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/312/25662"
     },
     {
-      "posted": "22-09-2026",
+      "posted": "23-09-2026",
       "title": "Visual Designer",
       "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25632"
+      "lastDate": "23 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/312/25661"
     },
     {
-      "posted": "22-09-2026",
+      "posted": "23-09-2026",
       "title": "Marketing & Growth Lead",
       "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25631"
+      "lastDate": "23 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/312/25660"
     },
     {
-      "posted": "22-09-2026",
+      "posted": "23-09-2026",
       "title": "Associate - System Engineer",
       "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25630"
+      "lastDate": "23 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/312/25659"
     },
     {
-      "posted": "22-09-2026",
+      "posted": "23-09-2026",
       "title": "Business Development Manager",
       "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25629"
+      "lastDate": "23 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/312/25658"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "Associate - QA Engineer",
+      "company": "2Base Technologies Pvt Ltd",
+      "lastDate": "23 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/312/25657"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "System Engineer",
+      "company": "UROLIME",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/118/25656"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "Sales Development Representative (SDR)",
+      "company": "UROLIME",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/118/25655"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "Legal Content Specialist (LLB)",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "24 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25654"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "Meta Ads Specialist",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "24 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25653"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "AI Search & Agentic Growth Specialist (LLM SEO)",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "24 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25652"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "Content Writer",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "24 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25651"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "Affiliate Marketing Manager",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "24 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25650"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "Global Partnerships Manager",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "24 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25649"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "Growth Lead",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "24 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25648"
+    },
+    {
+      "posted": "23-09-2026",
+      "title": "UX Writer (Growth)",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "lastDate": "24 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/333/25647"
     },
     {
       "posted": "22-09-2026",
-      "title": "Associate - QA Engineer",
-      "company": "2Base Technologies Pvt Ltd",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/312/25628"
+      "title": "Software Developer",
+      "company": "Braddock Infotech Pvt. Ltd.",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/51/25645"
+    },
+    {
+      "posted": "22-09-2026",
+      "title": "HR Trainee – Payroll & Statutory Compliance",
+      "company": "Nuvento Systems Private Limited",
+      "lastDate": "14 Oct 2026",
+      "link": "https://infopark.in/company-jobs/details/58/25644"
+    },
+    {
+      "posted": "22-09-2026",
+      "title": "WordPress Developer",
+      "company": "Jachoos Technologies Private Limited",
+      "lastDate": "25 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/363/25643"
+    },
+    {
+      "posted": "22-09-2026",
+      "title": "Software Tester Intern",
+      "company": "CloudHouse Technologies Pvt.Ltd",
+      "lastDate": "29 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/480/25642"
+    },
+    {
+      "posted": "22-09-2026",
+      "title": "Senior Business Development Specialist – IT Services",
+      "company": "Grapelime Innovations Private Limited.",
+      "lastDate": "23 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/296/25641"
+    },
+    {
+      "posted": "22-09-2026",
+      "title": "Team Lead – Content",
+      "company": "Nuvento Systems Private Limited",
+      "lastDate": "13 Oct 2026",
+      "link": "https://infopark.in/company-jobs/details/58/25640"
+    },
+    {
+      "posted": "22-09-2026",
+      "title": "Document Digitization Assistant",
+      "company": "Aabasoft Technologies India Private Limited",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/95/25639"
+    },
+    {
+      "posted": "22-09-2026",
+      "title": "Junior Security Test Engineer",
+      "company": "YOUGotaGift Pvt Ltd",
+      "lastDate": "22 Oct 2026",
+      "link": "https://infopark.in/company-jobs/details/482/25638"
+    },
+    {
+      "posted": "22-09-2026",
+      "title": "AI-Powered Video Editor (Entry Level / 0-1 Year Experience)- Immediate Joiners",
+      "company": "Techware Lab Pvt.Ltd.",
+      "lastDate": "22 Oct 2026",
+      "link": "https://infopark.in/company-jobs/details/268/25637"
+    },
+    {
+      "posted": "22-09-2026",
+      "title": "Computer Vision Engineer",
+      "company": "Difinity Digital",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/495/25636"
+    },
+    {
+      "posted": "22-09-2026",
+      "title": "Jr Graphic Designer",
+      "company": "Planet Media India ( PMIN Agency Pvt.Ltd.)",
+      "lastDate": "23 Oct 2026",
+      "link": "https://infopark.in/company-jobs/details/266/25635"
     },
     {
       "posted": "22-09-2026",
@@ -50,69 +225,6 @@
       "company": "CloudHouse Technologies Pvt.Ltd",
       "lastDate": "30 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/480/25627"
-    },
-    {
-      "posted": "22-09-2026",
-      "title": "UX Writer (Growth)",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "23 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25626"
-    },
-    {
-      "posted": "22-09-2026",
-      "title": "Growth Lead",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "23 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25625"
-    },
-    {
-      "posted": "22-09-2026",
-      "title": "Global Partnerships Manager",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "23 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25624"
-    },
-    {
-      "posted": "22-09-2026",
-      "title": "Affiliate Marketing Manager",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "23 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25623"
-    },
-    {
-      "posted": "22-09-2026",
-      "title": "Content Writer",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "23 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25622"
-    },
-    {
-      "posted": "22-09-2026",
-      "title": "AI Search & Agentic Growth Specialist (LLM SEO)",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "23 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25621"
-    },
-    {
-      "posted": "22-09-2026",
-      "title": "Meta Ads Specialist",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "23 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25620"
-    },
-    {
-      "posted": "22-09-2026",
-      "title": "Legal Content Specialist (LLB)",
-      "company": "Mozilor Technologies Pvt. Ltd.",
-      "lastDate": "23 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/333/25619"
-    },
-    {
-      "posted": "21-09-2026",
-      "title": "Senior Business Development Specialist – IT Services",
-      "company": "Grapelime Innovations Private Limited.",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/296/25618"
     },
     {
       "posted": "21-09-2026",
@@ -251,7 +363,7 @@
       "posted": "18-09-2026",
       "title": "WordPress Developer required for JTSi Technologies India Pvt Ltd at Kochi Infopark.",
       "company": "JTSi Technologies India Private Limited",
-      "lastDate": "23 Sep 2026",
+      "lastDate": "25 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/55/25525"
     },
     {
@@ -344,20 +456,6 @@
       "company": "Dynamed Healthcare Solutions Pvt.Ltd.",
       "lastDate": "30 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/132/25494"
-    },
-    {
-      "posted": "16-09-2026",
-      "title": "Sales Development Representative (SDR)",
-      "company": "UROLIME",
-      "lastDate": "30 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/118/25492"
-    },
-    {
-      "posted": "16-09-2026",
-      "title": "System Engineer",
-      "company": "UROLIME",
-      "lastDate": "30 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/118/25491"
     },
     {
       "posted": "16-09-2026",
@@ -461,7 +559,7 @@
       "posted": "14-09-2026",
       "title": "Website QA Engineer Intern",
       "company": "NewAgeSys Solutions (P) Ltd.",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "23 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/109/25456"
     },
     {
@@ -724,13 +822,6 @@
       "link": "https://infopark.in/company-jobs/details/442/25378"
     },
     {
-      "posted": "08-09-2026",
-      "title": "QA Engineer (Immediate Joiner)",
-      "company": "CSEIDC TECHNOLOGIES PVT LTD",
-      "lastDate": "30 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/481/25375"
-    },
-    {
       "posted": "07-09-2026",
       "title": "Full Stack Developer",
       "company": "Orestes Technologies Pvt Ltd",
@@ -956,13 +1047,6 @@
     },
     {
       "posted": "02-09-2026",
-      "title": "Technical Recruiter – Domestic Recruitment",
-      "company": "iDatalytics Pvt. Ltd.",
-      "lastDate": "31 Oct 2026",
-      "link": "https://infopark.in/company-jobs/details/91/25287"
-    },
-    {
-      "posted": "02-09-2026",
       "title": "Software Engineers /Senior Software Developers – ASP.Net Core, Vue.JS, MongoDB",
       "company": "KOTT SOFTWARE PRIVATE LIMITED",
       "lastDate": "30 Sep 2026",
@@ -1138,6 +1222,13 @@
     },
     {
       "posted": "27-08-2026",
+      "title": "Software Sales Executive (North Kerala)",
+      "company": "Voyon Technology Pvt Ltd",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/372/25187"
+    },
+    {
+      "posted": "27-08-2026",
       "title": "Machine Learning Engineer (Generative AI & Document Intelligence)",
       "company": "QC Verify Private Limited",
       "lastDate": "30 Sep 2026",
@@ -1201,13 +1292,6 @@
     },
     {
       "posted": "20-08-2026",
-      "title": "AWS Cloud Architect",
-      "company": "Simelabs - An Astek Company",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/378/25155"
-    },
-    {
-      "posted": "20-08-2026",
       "title": "Salesforce Developer",
       "company": "Simelabs - An Astek Company",
       "lastDate": "20 Oct 2026",
@@ -1217,7 +1301,7 @@
       "posted": "19-08-2026",
       "title": "Technical Program Manager",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/25141"
     },
     {
@@ -1226,13 +1310,6 @@
       "company": "Alphasky Ventures Pvt. Ltd.",
       "lastDate": "30 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/539/25126"
-    },
-    {
-      "posted": "18-08-2026",
-      "title": "Senior Data Engineer",
-      "company": "AVENTUS INFORMATICS",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/148/25124"
     },
     {
       "posted": "17-08-2026",
@@ -1599,10 +1676,17 @@
       "link": "https://infopark.in/company-jobs/details/390/24782"
     },
     {
+      "posted": "22-07-2026",
+      "title": "Business Development Executive - UAE",
+      "company": "Voyon Technology Pvt Ltd",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/372/24779"
+    },
+    {
       "posted": "21-07-2026",
       "title": "Web Developer",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/24759"
     },
     {
@@ -1777,14 +1861,14 @@
       "posted": "25-06-2026",
       "title": "Java Technical Lead",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/24331"
     },
     {
       "posted": "25-06-2026",
       "title": ".NET Technical Lead",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/24330"
     },
     {
@@ -2029,7 +2113,7 @@
       "posted": "21-05-2026",
       "title": "Senior Technical Lead / Architect",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/23665"
     },
     {
@@ -2229,11 +2313,11 @@
       "link": "https://infopark.in/company-jobs/details/49/22999"
     },
     {
-      "posted": "26-03-2026",
-      "title": "Student Counsellor - Overseas Education - Freshers",
-      "company": "Opshore Talent Solutions Pvt.Ltd.",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/168/22697"
+      "posted": "31-03-2026",
+      "title": "Software Engineer (.Net)",
+      "company": "Voyon Technology Pvt Ltd",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/372/22765"
     },
     {
       "posted": "24-03-2026",
@@ -2243,17 +2327,10 @@
       "link": "https://infopark.in/company-jobs/details/495/22663"
     },
     {
-      "posted": "16-03-2026",
-      "title": "Data Architect / Lead Data Engineer",
-      "company": "Flycatch Infotech Pvt. Ltd.",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/525/22531"
-    },
-    {
       "posted": "13-03-2026",
       "title": "Technical Recruitment Lead",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/22501"
     },
     {
@@ -2418,6 +2495,13 @@
       "link": "https://infopark.in/company-jobs/details/117/21888"
     },
     {
+      "posted": "22-01-2026",
+      "title": "Full Stack Developer",
+      "company": "Eqsoft Business Solutions Pvt Ltd",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/286/21736"
+    },
+    {
       "posted": "19-01-2026",
       "title": "Software Test Engineer",
       "company": "Emsyne Technologies Private Limited",
@@ -2435,14 +2519,14 @@
       "posted": "15-01-2026",
       "title": "UI/UX Designer",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/21638"
     },
     {
       "posted": "15-01-2026",
       "title": "UX Associate Lead",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/21637"
     },
     {
@@ -2456,14 +2540,14 @@
       "posted": "15-01-2026",
       "title": "Senior Salesforce Developer / Technical Consultant",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/21621"
     },
     {
       "posted": "15-01-2026",
       "title": "Salesforce Functional Consultant",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/21620"
     },
     {
@@ -2474,10 +2558,17 @@
       "link": "https://infopark.in/company-jobs/details/352/21539"
     },
     {
+      "posted": "08-01-2026",
+      "title": "Implementation/ Product Support Executive",
+      "company": "Voyon Technology Pvt Ltd",
+      "lastDate": "30 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/372/21522"
+    },
+    {
       "posted": "06-01-2026",
       "title": "Senior Solution Architect / Principal Solution Architect",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/21505"
     },
     {
@@ -2533,7 +2624,7 @@
       "posted": "04-12-2025",
       "title": "Senior ServiceNow Developer / Technical Consultant",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/21255"
     },
     {
@@ -2582,14 +2673,14 @@
       "posted": "05-11-2025",
       "title": "Business Development Manager",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/20980"
     },
     {
       "posted": "05-11-2025",
       "title": "Senior AI/ML Engineer",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/20978"
     },
     {
@@ -2603,14 +2694,14 @@
       "posted": "29-10-2025",
       "title": "Technical Architect -AI/ML",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/20917"
     },
     {
       "posted": "29-10-2025",
       "title": "Team Lead - AI/ML",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/20916"
     },
     {
@@ -2736,7 +2827,7 @@
       "posted": "13-10-2025",
       "title": "Python Technical Lead",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/20718"
     },
     {
@@ -2771,7 +2862,7 @@
       "posted": "19-09-2025",
       "title": "Business Development Executive",
       "company": "Techversant Infotech Pvt Ltd",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "06 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/85/20466"
     },
     {
@@ -2864,13 +2955,6 @@
       "company": "InerG Software Innovations Pvt.Ltd.",
       "lastDate": "14 Oct 2026",
       "link": "https://infopark.in/company-jobs/details/181/19465"
-    },
-    {
-      "posted": "01-07-2025",
-      "title": "Internship - Flutter Development (Kannur Location)",
-      "company": "Aabasoft Technologies India Private Limited",
-      "lastDate": "30 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/95/19431"
     },
     {
       "posted": "25-06-2025",
@@ -3020,13 +3104,6 @@
       "link": "https://infopark.in/company-jobs/details/433/16972"
     },
     {
-      "posted": "16-10-2024",
-      "title": "Receptionist/Tele Calling Executive",
-      "company": "Opshore Talent Solutions Pvt.Ltd.",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/168/16967"
-    },
-    {
       "posted": "23-08-2024",
       "title": "Social Media Specialist",
       "company": "Mantra IT Solutions",
@@ -3076,13 +3153,6 @@
       "link": "https://infopark.in/company-jobs/details/95/15907"
     },
     {
-      "posted": "10-04-2024",
-      "title": "Senior Overseas Education Counsellor",
-      "company": "Opshore Talent Solutions Pvt.Ltd.",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/168/15904"
-    },
-    {
       "posted": "05-04-2024",
       "title": "Operations Executive - UAE Group Medical Endorsement Department",
       "company": "HTIC Global",
@@ -3114,14 +3184,21 @@
       "posted": "16-11-2023",
       "title": "Performance marketing Strategist (Exp:4+years)",
       "company": "Webandcrafts",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "24 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/105/15190"
+    },
+    {
+      "posted": "15-11-2023",
+      "title": "Social Media Strategist (Exp: 5-10 years)",
+      "company": "Webandcrafts",
+      "lastDate": "24 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/105/15179"
     },
     {
       "posted": "15-11-2023",
       "title": "Business Analyst (Exp: 5+years)",
       "company": "Webandcrafts",
-      "lastDate": "22 Sep 2026",
+      "lastDate": "24 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/105/15178"
     },
     {
@@ -3130,6 +3207,13 @@
       "company": "Simelabs - An Astek Company",
       "lastDate": "30 Sep 2026",
       "link": "https://infopark.in/company-jobs/details/378/15133"
+    },
+    {
+      "posted": "04-08-2023",
+      "title": "Project Manager (Exp: 7+years)",
+      "company": "Webandcrafts",
+      "lastDate": "24 Sep 2026",
+      "link": "https://infopark.in/company-jobs/details/105/14473"
     },
     {
       "posted": "14-02-2023",
@@ -3158,13 +3242,6 @@
       "company": "Innovature Software Labs (P) Ltd",
       "lastDate": "27 Nov 2026",
       "link": "https://infopark.in/company-jobs/details/190/10422"
-    },
-    {
-      "posted": "01-04-2022",
-      "title": "Social Media Analyst (2-5 Years)",
-      "company": "Webandcrafts",
-      "lastDate": "22 Sep 2026",
-      "link": "https://infopark.in/company-jobs/details/105/9369"
     },
     {
       "posted": "29-03-2022",
