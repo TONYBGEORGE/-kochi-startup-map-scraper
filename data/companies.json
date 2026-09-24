@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-23T07:59:58.144Z",
-  "count": 397,
+  "scrapedAt": "2026-09-24T07:51:23.482Z",
+  "count": 398,
   "companies": [
     {
       "name": "2Base Technologies Pvt Ltd",
@@ -1146,6 +1146,17 @@
       "profileLink": "https://infopark.in/companies-profile/energyscape-renewables-llp"
     },
     {
+      "name": "Enveetech BIM Solutions Pvt. Ltd.",
+      "website": "www.enveetech.com",
+      "phone": "8136809837",
+      "domains": [
+        "BIM (Building Information Modeling) Solutions"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Enveetech_BIM_Solutions_Pvt._Ltd.-1790162369.png",
+      "jobLink": "https://infopark.in/jobs/554",
+      "profileLink": "https://infopark.in/companies-profile/enveetech-bim-solutions-pvt-ltd"
+    },
+    {
       "name": "EPI-USE India Pvt.Ltd.",
       "website": "www.epiuse.com",
       "phone": "+91 9778316023",
@@ -1854,7 +1865,7 @@
     {
       "name": "IVBM Pvt Ltd",
       "website": "www.ivbmcs.com",
-      "phone": "+917593882470",
+      "phone": null,
       "domains": [
         "Back Office & Administrative Services",
         "Finance & Accounting Services",
