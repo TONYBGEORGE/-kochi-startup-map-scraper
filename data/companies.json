@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-25T08:14:06.812Z",
-  "count": 398,
+  "scrapedAt": "2026-09-27T08:37:33.501Z",
+  "count": 399,
   "companies": [
     {
       "name": "2Base Technologies Pvt Ltd",
@@ -900,6 +900,21 @@
       "profileLink": "https://infopark.in/companies-profile/datafloat-technologies-india-pvt-ltd"
     },
     {
+      "name": "DataPMI Technologies LLP",
+      "website": "www.datapmi.com",
+      "phone": "+91-79078413781",
+      "domains": [
+        "Cloud Computing",
+        "Enterprise Solutions",
+        "Cybersecurity",
+        "Software Development",
+        "Artificial Intelligence (AI) / Machine Learning (ML)"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/DataPMI_Technologies_LLP-1790328162.jpg",
+      "jobLink": "https://infopark.in/jobs/555",
+      "profileLink": "https://infopark.in/companies-profile/datapmi-technologies-llp"
+    },
+    {
       "name": "Datum Innovation",
       "website": "www.datuminnovation.com",
       "phone": "0478 2554009       Mob: 9961734403",
@@ -1452,7 +1467,13 @@
       "name": "Gizmeon Technologies Private Limited",
       "website": "www.gizmeon.com",
       "phone": "+91 9645833111",
-      "domains": [],
+      "domains": [
+        "Enterprise Solutions",
+        "Software Development",
+        "Cloud Computing",
+        "Artificial Intelligence (AI) / Machine Learning (ML)",
+        "Data Science & Analytics"
+      ],
       "logo": "https://infopark.in/upload_images/company_logos/548Gizmeon Logo.jpeg",
       "jobLink": "https://infopark.in/jobs/371",
       "profileLink": "https://infopark.in/companies-profile/gizmeon-technologies-private-limited"
