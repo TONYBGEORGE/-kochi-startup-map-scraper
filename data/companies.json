@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-27T08:37:33.501Z",
-  "count": 399,
+  "scrapedAt": "2026-09-28T09:00:36.575Z",
+  "count": 401,
   "companies": [
     {
       "name": "2Base Technologies Pvt Ltd",
@@ -324,6 +324,19 @@
       "logo": "https://infopark.in/upload_images/company_logos/597Apro-Logo.jpg",
       "jobLink": "https://infopark.in/jobs/420",
       "profileLink": "https://infopark.in/companies-profile/apro-it-solutions-pvt-ltd"
+    },
+    {
+      "name": "Aptlylabs India Pvt Ltd",
+      "website": "aptlylabs.com",
+      "phone": "+91 9633198444",
+      "domains": [
+        "UI/UX Design & Development",
+        "Cloud Computing",
+        "Software Development"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/Aptlylabs_India_Pvt_Ltd-1790580223.png",
+      "jobLink": "https://infopark.in/jobs/557",
+      "profileLink": "https://infopark.in/companies-profile/aptlylabs-india-pvt-ltd"
     },
     {
       "name": "Armia Systems Pvt. Ltd",
@@ -3507,6 +3520,17 @@
       "logo": "https://infopark.in/upload_images/company_logos/372TESTING-MAVENS_267x150.jpg",
       "jobLink": "https://infopark.in/jobs/200",
       "profileLink": "https://infopark.in/companies-profile/testing-mavens-software-pvt-ltd"
+    },
+    {
+      "name": "TEXIN CONSULTANCY",
+      "website": "texincloud.com",
+      "phone": "+918547558097",
+      "domains": [
+        "Finance & Accounting Services"
+      ],
+      "logo": "https://infopark.in/upload_images/company_logos/TEXIN_CONSULTANCY-1790573897.jpg",
+      "jobLink": "https://infopark.in/jobs/556",
+      "profileLink": "https://infopark.in/companies-profile/texin-consultancy"
     },
     {
       "name": "Thinkpalm Technologies Pvt.Ltd",
